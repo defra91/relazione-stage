@@ -1,0 +1,41 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{site:agile-manifesto}{online}{}
+      \field{sortinit}{M}
+      \field{labeltitle}{Manifesto Agile}
+      \field{title}{Manifesto Agile}
+      \verb{url}
+      \verb http://agilemanifesto.org/
+      \endverb
+    \endentry
+    \entry{site:scrum-method}{online}{}
+      \field{sortinit}{S}
+      \field{labeltitle}{Scrum Methodology}
+      \field{title}{Scrum Methodology}
+      \verb{url}
+      \verb http://scrummethodology.com/
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
