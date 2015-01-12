@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.4)  12 JAN 2015 16:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.4)  12 JAN 2015 18:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1380,120 +1380,124 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
 ]) (./capitoli/capitolo-1.tex
 Capitolo 1.
-<immagini/../immagini/coffeestrap-logo.png, id=190, 240.9pt x 47.17625pt>
+<immagini/../immagini/coffeestrap-logo.png, id=192, 240.9pt x 47.17625pt>
 File: immagini/../immagini/coffeestrap-logo.png Graphic file (type png)
 
 <use immagini/../immagini/coffeestrap-logo.png>
 Package pdftex.def Info: immagini/../immagini/coffeestrap-logo.png used on inpu
 t line 17.
 (pdftex.def)             Requested size: 186.0pt x 36.42586pt.
+
+<immagini/../immagini/rockstart-building.jpg, id=198, 451.6875pt x 327.2225pt>
+File: immagini/../immagini/rockstart-building.jpg Graphic file (type jpg)
+
+<use immagini/../immagini/rockstart-building.jpg>
+Package pdftex.def Info: immagini/../immagini/rockstart-building.jpg used on in
+put line 25.
+(pdftex.def)             Requested size: 372.0pt x 269.50752pt.
+
+Underfull \vbox (badness 2653) has occurred while \output is active []
+
  [1
 
 
 
- <./immagini/../immagini/coffeestrap-logo.png>] [2]
-<immagini/../immagini/coffeestrap-flow.png, id=225, 424.2249pt x 362.3136pt>
+ <./immagini/../immagini/coffeestrap-logo.png>]
+<immagini/../immagini/rockstart-ballroom.jpg, id=219, 326.1786pt x 216.81pt>
+File: immagini/../immagini/rockstart-ballroom.jpg Graphic file (type jpg)
+
+<use immagini/../immagini/rockstart-ballroom.jpg>
+Package pdftex.def Info: immagini/../immagini/rockstart-ballroom.jpg used on in
+put line 54.
+(pdftex.def)             Requested size: 372.0pt x 247.28174pt.
+ [2 <./immagini/../immagini/rockstart-building.jpg>] [3 <./immagini/../immagini
+/rockstart-ballroom.jpg>]
+<immagini/../immagini/coffeestrap-flow.png, id=235, 424.2249pt x 362.3136pt>
 File: immagini/../immagini/coffeestrap-flow.png Graphic file (type png)
 
 <use immagini/../immagini/coffeestrap-flow.png>
 Package pdftex.def Info: immagini/../immagini/coffeestrap-flow.png used on inpu
-t line 79.
-(pdftex.def)             Requested size: 372.0pt x 317.70915pt.
- [3 <./immagini/../immagini/coffeestrap-flow.png>] [4]
-<immagini/../immagini/story-workflow.png, id=243, 398.4486pt x 289.08pt>
+t line 92.
+(pdftex.def)             Requested size: 186.0pt x 158.85457pt.
+ [4 <./immagini/../immagini/coffeestrap-flow.png>] [5]
+<immagini/../immagini/story-workflow.png, id=255, 398.4486pt x 289.08pt>
 File: immagini/../immagini/story-workflow.png Graphic file (type png)
 
 <use immagini/../immagini/story-workflow.png>
 Package pdftex.def Info: immagini/../immagini/story-workflow.png used on input 
-line 167.
+line 180.
 (pdftex.def)             Requested size: 372.0pt x 269.89584pt.
- [5] [6 <./immagini/../immagini/story-workflow.png>]
-<immagini/../immagini/node-js-logo.png, id=268, 481.8pt x 240.9pt>
-File: immagini/../immagini/node-js-logo.png Graphic file (type png)
+ [6] [7 <./immagini/../immagini/story-workflow.png>]
+<immagini/../immagini/stack-composition.png, id=301, 451.6875pt x 295.8252pt>
+File: immagini/../immagini/stack-composition.png Graphic file (type png)
 
-<use immagini/../immagini/node-js-logo.png>
-Package pdftex.def Info: immagini/../immagini/node-js-logo.png used on input li
-ne 185.
-(pdftex.def)             Requested size: 186.0pt x 92.99857pt.
-
-<immagini/../immagini/firebase-logo.png, id=270, 499.6266pt x 98.5281pt>
-File: immagini/../immagini/firebase-logo.png Graphic file (type png)
-
-<use immagini/../immagini/firebase-logo.png>
-Package pdftex.def Info: immagini/../immagini/firebase-logo.png used on input l
-ine 193.
-(pdftex.def)             Requested size: 186.0pt x 36.67882pt.
-
-<immagini/../immagini/angular-js-logo.png, id=274, 384.43625pt x 108.405pt>
-File: immagini/../immagini/angular-js-logo.png Graphic file (type png)
-
-<use immagini/../immagini/angular-js-logo.png>
-Package pdftex.def Info: immagini/../immagini/angular-js-logo.png used on input
- line 203.
-(pdftex.def)             Requested size: 186.0pt x 52.45064pt.
- [7 <./immagini/../immagini/node-js-logo.png> <./immagini/../immagini/firebase-
-logo.png> <./immagini/../immagini/angular-js-logo.png>]
-<immagini/../immagini/mongo-db-logo.jpg, id=288, 1505.625pt x 501.875pt>
-File: immagini/../immagini/mongo-db-logo.jpg Graphic file (type jpg)
-
-<use immagini/../immagini/mongo-db-logo.jpg>
-Package pdftex.def Info: immagini/../immagini/mongo-db-logo.jpg used on input l
-ine 215.
-(pdftex.def)             Requested size: 186.0pt x 61.99904pt.
-
-<immagini/../immagini/git-logo.png, id=292, 913.4125pt x 381.425pt>
-File: immagini/../immagini/git-logo.png Graphic file (type png)
-
-<use immagini/../immagini/git-logo.png>
-Package pdftex.def Info: immagini/../immagini/git-logo.png used on input line 2
-51.
-(pdftex.def)             Requested size: 186.0pt x 77.66882pt.
- [8 <./immagini/../immagini/mongo-db-logo.jpg>]
-<immagini/../immagini/user-distribution.png, id=301, 1236.62pt x 624.3325pt>
+<use immagini/../immagini/stack-composition.png>
+Package pdftex.def Info: immagini/../immagini/stack-composition.png used on inp
+ut line 210.
+(pdftex.def)             Requested size: 372.0pt x 243.64803pt.
+ [8] [9 <./immagini/../immagini/stack-composition.png>]
+<immagini/../immagini/user-distribution.png, id=337, 1236.62pt x 624.3325pt>
 File: immagini/../immagini/user-distribution.png Graphic file (type png)
 
 <use immagini/../immagini/user-distribution.png>
 Package pdftex.def Info: immagini/../immagini/user-distribution.png used on inp
-ut line 261.
+ut line 250.
 (pdftex.def)             Requested size: 372.0pt x 187.80609pt.
 ) (./capitoli/capitolo-2.tex
-[9 <./immagini/../immagini/git-logo.png> <./immagini/../immagini/user-distribut
-ion.png>] [10
+[10 <./immagini/../immagini/user-distribution.png>]
+Capitolo 2.
+
+Underfull \vbox (badness 5231) has occurred while \output is active []
+
+ [11
 
 ]
-Capitolo 2.
-[11] [12] [13] [14]) (./capitoli/capitolo-3.tex [15] [16
+<immagini/../immagini/mobile-and-web-market.png, id=346, 2144.01pt x 1429.34pt>
+File: immagini/../immagini/mobile-and-web-market.png Graphic file (type png)
+<use immagini/../immagini/mobile-and-web-market.png>
+Package pdftex.def Info: immagini/../immagini/mobile-and-web-market.png used on
+ input line 37.
+(pdftex.def)             Requested size: 372.0pt x 247.97906pt.
+ [12 <./immagini/../immagini/mobile-and-web-market.png>] [13] [14] [15]
+<immagini/../immagini/gantt.png, id=397, 626.34pt x 741.77126pt>
+File: immagini/../immagini/gantt.png Graphic file (type png)
+
+<use immagini/../immagini/gantt.png>
+Package pdftex.def Info: immagini/../immagini/gantt.png used on input line 162.
+
+(pdftex.def)             Requested size: 372.0pt x 440.57275pt.
+) (./capitoli/capitolo-3.tex [16] [17 <./immagini/../immagini/gantt.png>] [18
 
 ]
 Capitolo 3.
-[17]) (./capitoli/capitolo-4.tex [18]
+[19]) (./capitoli/capitolo-4.tex [20]
 Capitolo 4.
-) (./capitoli/appendice-A.tex [19
+) (./capitoli/appendice-A.tex [21
 
-] [20
+] [22
 
 ]
 Appendice A.
-[21]
-<immagini/../immagini/git-flow-model.png, id=373, 1154.3125pt x 1529.715pt>
+[23]
+<immagini/../immagini/git-flow-model.png, id=435, 1154.3125pt x 1529.715pt>
 File: immagini/../immagini/git-flow-model.png Graphic file (type png)
 
 <use immagini/../immagini/git-flow-model.png>
 Package pdftex.def Info: immagini/../immagini/git-flow-model.png used on input 
 line 35.
 (pdftex.def)             Requested size: 186.0pt x 246.48668pt.
-) [22 <./immagini/../immagini/git-flow-model.png>] (./tesi.gls [23
+) [24 <./immagini/../immagini/git-flow-model.png>] (./tesi.gls [25
 
 
 
-] [24]) (./tesi.acr)
-(./inizio-fine/bibliografia.tex [25] [26
+] [26]) (./tesi.acr)
+(./inizio-fine/bibliografia.tex [27] [28
 
 ]
 
 LaTeX Warning: Empty bibliography on input line 13.
 
-) [27
+) [29
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
@@ -1506,11 +1510,11 @@ Package logreq Info: Writing requests to 'tesi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23074 strings out of 493304
- 364155 string characters out of 6139871
- 911498 words of memory out of 5000000
- 25719 multiletter control sequences out of 15000+600000
- 31591 words of font info for 130 fonts, out of 8000000 for 9000
+ 23099 strings out of 493304
+ 364533 string characters out of 6139871
+ 911504 words of memory out of 5000000
+ 25721 multiletter control sequences out of 15000+600000
+ 31710 words of font info for 131 fonts, out of 8000000 for 9000
  959 hyphenation exceptions out of 8191
  61i,10n,122p,1689b,1433s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
@@ -1533,10 +1537,10 @@ ic/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1000
 mf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/publi
 c/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.
 pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on tesi.pdf (37 pages, 1352972 bytes).
+Output written on tesi.pdf (39 pages, 1718318 bytes).
 PDF statistics:
- 763 PDF objects out of 1000 (max. 8388607)
- 649 compressed objects within 7 object streams
- 154 named destinations out of 1000 (max. 500000)
+ 829 PDF objects out of 1000 (max. 8388607)
+ 716 compressed objects within 8 object streams
+ 175 named destinations out of 1000 (max. 500000)
  35256 words of extra memory for PDF output out of 35830 (max. 10000000)
 

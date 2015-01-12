@@ -10,7 +10,7 @@
 
 \section{L'azienda CoffeeStrap inc.}
 
-CoffeeStrap inc. è un'azienda \gls{start-up} in ambito web/mobile nata nei primi mesi del 2013 dalla collaborazione di Mahesh Casiraghi e Alessandro Maccagnan, che attualmente ricoprono al suo interno rispettivamente i ruoli di \gls{CEO} e \gls{CTO}. Dal mese di Aprile del 2014 inoltre si è aggiunto al team un ulteriore componente, Milo Ertola, che attualmente ricopre il ruolo di \gls{CPO} e si occupa dello sviluppo web. 
+CoffeeStrap inc\footnote{\url{http://www.coffeestrap.com/}}. è un'azienda \gls{start-up} in ambito web/mobile nata nei primi mesi del 2013 dalla collaborazione di Mahesh Casiraghi e Alessandro Maccagnan, che attualmente ricoprono al suo interno rispettivamente i ruoli di \gls{CEO} e \gls{CTO}. Dal mese di Aprile del 2014 inoltre si è aggiunto al team un ulteriore componente, Milo Ertola, che attualmente ricopre il ruolo di \gls{CPO} e si occupa dello sviluppo web. 
 
 \begin{figure}[htpd]
 \centering
@@ -18,19 +18,46 @@ CoffeeStrap inc. è un'azienda \gls{start-up} in ambito web/mobile nata nei prim
 \caption{Logo di CoffeeStrap inc.}  
 \end{figure}
 
-La startup nasce con sede operativa a San Francisco, in cui ha trascorso il suo primo anno di sviluppo, per poi spostarsi all'inizio del 2014 nel cuore Amsterdam, partecipando al programma dell'\gls{acceleratore} Rockstart\footnote{\url{http://www.rockstart.com/accelerator/}}, che fornisce attualmente supporto diretto all'azienda, mettendo a disposizione, oltre alle postazioni di lavoro (è infatti anche \gls{incubatore}), un ambiente fresco e innovativo, circondato da esperti del settore e a stretto e costante contatto con il mondo esterno e con la rete degli investitori. Rockstart possiede al suo interno inoltre un gruppo di \textbf{mentori}, che mettono a disposizione la loro esperienza e le loro capacità, fornendo assitenza diretta in diversi ambiti. Questo tipo di figura è molto importanti in un ambiente di questo tipo, in quanto le aziende, essendo alle origini, hanno bisogno di essere indirizzate nella giusta direzione per poter sviluppare il proprio prodotto in modo efficace e ricevere dunque finanziamenti.
+La start-up nasce con sede operativa a San Francisco, in cui ha trascorso il suo primo anno di sviluppo, per poi spostarsi all'inizio del 2014 nel cuore Amsterdam, partecipando al programma dell'\gls{acceleratore} Rockstart\footnote{\url{http://www.rockstart.com/accelerator/}}, che fornisce attualmente supporto diretto all'azienda, mettendo a disposizione, oltre alle postazioni di lavoro (è infatti anche \gls{incubatore}), un ambiente fresco e innovativo, circondato da esperti del settore e a stretto e costante contatto con il mondo esterno e con la rete degli investitori. Rockstart possiede al suo interno inoltre un gruppo di \textbf{mentori}, che mettono a disposizione la loro esperienza e le loro capacità, fornendo assistenza diretta in diversi ambiti. Questo tipo di figura è molto importanti in un ambiente di questo tipo, in quanto le aziende, essendo alle origini, hanno bisogno di essere indirizzate nella giusta direzione per poter sviluppare il proprio prodotto in modo efficace e ricevere dunque finanziamenti. La sede operativa contestualmente al mio stage è stata appunto quest'ultima, nella quale ho potuto conoscere il mondo delle start-up ed entrare in contatto con una comunità di sviluppatori, esperti di business e mentori che hanno contribuito alla mia crescita sia professionale che personale.
 
 \begin{figure}[htpd]
 \centering
-\includegraphics[width=\textwidth/2]{../immagini/rockstart-logo}
-\caption{Logo di Rockstart Accelerator}
-\end{figure} 
+\includegraphics[width=\textwidth]{../immagini/rockstart-building}
+\caption{Organizzazione dell'edificio di Rockstart}  
+\end{figure}
 
-La sede operativa contestualmente al mio stage è stata appunto quest'ultima, nella quale ho potuto conoscere il mondo delle startup ed entrare in contatto con una comunità di sviluppatori, esperti di business e mentori che hanno contribuito alla mia crescita sia professionale che personale.
 
-\subsection{Il contesto della startup}
+Rockstart è suddiviso in quattro sezioni principali, ciascuno con il proprio scopo e modalità operative:
 
-L'azienda ospitante è una particolare realtà aziendale, l'impresa è nella sua fase iniziale e, come la maggior parte delle startup, parte con un'idea di riferimento, cercando di rendere profittevole quest'ultima tramite veloci iterazioni sul prodotto. L'incubatore all'interno del quale lavoravo incapsula questo mondo in maniera molto significativa. Sono entrato in un ambiente molto personalizzante, nel quale si è a stretto contatto con il team (essendo quest'ultimo inoltre di piccole dimensioni) e le altre aziende, con le quali si è creata un'implicita rete collaborativa, dalla quale è possibile imparare molto e confrontarsi quotidianamente. Tale collaborazione fornisce valore al prodotto e all'azienda, in quanto permette, oltre ad un importante feedback sulle iterazioni, anche una quotidiana attività di \gls{brainstorming}, che permette di visualizzare i problemi sotto punti di vista differenti e ad arrivare così ad una migliore soluzione.
+\begin{itemize}
+
+\item \textbf{Rockstart accelerator}, che fornisce un programma di accelerazione di 150 giorni, offrendo inoltre un finanziamento iniziale in cambio di una percentuale di quota societaria. Esso si suddivide a sua volta in due sotto-branchie:
+
+\begin{itemize}
+
+\item \textbf{Web e mobile accelerator program}, focalizzato sulle startup in ambito web/mobile. È esattamente in questa branchia in cui l'azienda CoffeeStrap colloca la propria posizione all'interno di Rockstart;
+
+\item \textbf{Smart energy}, che fornisce supporto nelle startup che mettono in correlazione l'\textit{information technology} con il problema del risparmio energetico. Il loro programma differisce leggermente rispetto al precedente.
+
+\end{itemize}
+
+\item \textbf{Rockstart spaces}, che si occupa della gestione degli uffici e degli eventi all'interno di Rockstart. Quest'ultimo ospita infatti al suo interno numerosi eventi nella spaziosa \textbf{ballroom}, molto spesso organizzati da entità al di fuori di Rockstart;
+
+\item \textbf{Rockstart answers}, che organizza eventi mirati a creare una sorta di comunità all'interno di Rockstart nella quale tutti possono confrontarsi tra di loro ed incontrarsi ad eventi organizzati \textit{ad-hoc} che trattano diversi argomenti o danno la possibilità alle start-up di effettuare presentazioni;
+
+\item \textbf{Rockstart impact}, che fornisce supporto alle start-up nei paesi in via di sviluppo, in particolare in Nepal. 
+
+\end{itemize}
+
+\begin{figure}[htpd]
+\centering
+\includegraphics[width=\textwidth]{../immagini/rockstart-ballroom}
+\caption{La ballroom a Rockstart}  
+\end{figure}
+
+\subsection{Il contesto della start-up}
+
+L'azienda ospitante è una particolare realtà aziendale, l'impresa è nella sua fase iniziale e, come la maggior parte delle start-up, parte con un'idea di riferimento, cercando di rendere profittevole quest'ultima tramite veloci iterazioni sul prodotto. L'incubatore all'interno del quale lavoravo incapsula questo mondo in maniera molto significativa. Sono entrato in un ambiente molto personalizzante, nel quale si è a stretto contatto con il team (essendo quest'ultimo inoltre di piccole dimensioni) e le altre aziende, con le quali si è creata un'implicita rete collaborativa, dalla quale è possibile imparare molto e confrontarsi quotidianamente. Tale collaborazione fornisce valore al prodotto e all'azienda, in quanto permette, oltre ad un importante feedback sulle iterazioni, anche una quotidiana attività di \gls{brainstorming}, che permette di visualizzare i problemi sotto punti di vista differenti e ad arrivare così ad una migliore soluzione.
 
 \section{Il dominio applicativo}
 
@@ -62,7 +89,7 @@ Una volta completato il profilo l'utente inizia a parlare una lingua passando at
 
 \begin{figure}[htpd]
 \centering
-\includegraphics[width=\textwidth]{../immagini/coffeestrap-flow}
+\includegraphics[width=\textwidth/2]{../immagini/coffeestrap-flow}
 \caption{Flusso utente}
 \end{figure}
 
@@ -70,7 +97,7 @@ Gli utenti vengono notificati tramite \textbf{notifica email} e, in seguito allo
 
 \section{Metodologie e strumenti di sviluppo}
 
-CoffeeStrap adotta la metodologia di sviluppo \textbf{\gls{agile}}. Il particolare contesto entro il quale si trova fa sì che i requisiti cambiano molto spesso e porta dunque quest'ultima a dover iterare molto velocemente sul proprio prodotto, che si trova ancora nella sua fase primordiale e necessita di modifiche e miglioramenti costanti. Proprio a fronte di queste necessità è importante mantenere la massima flessibilità possibile nello sviluppo, motivo per cui questo modello di ciclo di vita è in questo momento il più conveniente in termini di efficienza ed efficacia. In particolare la metodologia adottata è quella \textbf{agile \gls{scrum}}.
+CoffeeStrap adotta la metodologia di sviluppo \textbf{\gls{agile}}\footnote{\url{http://agilemanifesto.org/}}. Il particolare contesto entro il quale si trova fa sì che i requisiti cambiano molto spesso e porta dunque quest'ultima a dover iterare molto velocemente sul proprio prodotto, che si trova ancora nella sua fase primordiale e necessita di modifiche e miglioramenti costanti. Proprio a fronte di queste necessità è importante mantenere la massima flessibilità possibile nello sviluppo, motivo per cui questo modello di ciclo di vita è in questo momento il più conveniente in termini di efficienza ed efficacia. In particolare la metodologia adottata è quella \textbf{agile \gls{scrum}}.
 
 Il tipo di iterazione utilizzata è su base settimanale. Una volta a settimana, normalmente il Mercoledì, avviene lo \textbf{scrum meeting}, una riunione della durata di circa due ore nella quale si fissano \textbf{stories} da risolvere nello \textbf{\gls{sprint}} corrente. Una story è un concetto molto simile a quello di \textbf{ticket}, ed è composta dai seguenti campi:
 
@@ -90,7 +117,7 @@ Il tipo di iterazione utilizzata è su base settimanale. Una volta a settimana, 
 
 \item \textbf{Descrizione}, che fornisce una dettagliata sintesi della story.
 \item Una o più \textbf{etichette}, che forniscono un filtro alle stories;
-\item \textbf{Complessità}, che è un indice soggettivo di quante risorse sono necessarie per il completamento della story. Questo valore segue la seqenza di Fibonacci e può assumere i valori 1, 2, 5, 8, 13. Se una story ha una complessità superiore a 13 essa dev'essere necessariamente spezzata in due o più sotto-stories. Solamente alle features può essere assegnata complessità, in quanto sono le uniche stories che realmente forniscono un valore al business;
+\item \textbf{Complessità}, che è un indice soggettivo di quante risorse sono necessarie per il completamento della story. Questo valore segue la sequenza di Fibonacci e può assumere i valori 1, 2, 5, 8, 13. Se una story ha una complessità superiore a 13 essa dev'essere necessariamente spezzata in due o più sotto-stories. Solamente alle features può essere assegnata complessità, in quanto sono le uniche stories che realmente forniscono un valore al business;
 \item \textbf{Richiedente}, che dev'essere unico;
 \item Uno o più \textbf{responsabili} (\textit{owners}), che possono coincidere con il richiedente e sono coloro che devono occuparsi direttamente della story;
 
@@ -127,7 +154,7 @@ Ciascuna story è inserita all'interno di una \textbf{board}. Ci sono tre tipolo
 
 \item \textbf{Current}, contenente le stories attive nello sprint corrente;
 \item \textbf{Backlog}, contenente la ``coda'' delle stories da attivare;
-\item \textbf{Icebox}, contente stories in attesa di approvazione e attivazione. Le stories possono rimanere su questa board per un tempo indeterminato, finchè vengono spostate sul backlog o rimosse definitivamente.
+\item \textbf{Icebox}, contente stories in attesa di approvazione e attivazione. Le stories possono rimanere su questa board per un tempo indeterminato, finché vengono spostate sul backlog o rimosse definitivamente.
 
 \end{itemize} 
 
@@ -143,7 +170,7 @@ Una volta creata la story deve passare attraverso diverse fasi, per questo si pa
 \item La story una volta implementata viene \textbf{testata} (\textit{test});
 \item Superata la fase di testing la story viene \textbf{ultimata} (\textit{finish});
 \item A questo punto i responsabili ``pushano'' il codice sull'ambiente di \textbf{staging} (\textit{deliver});
-\item La story viene poi \textbf{accettata} dal richiedente o comunque da una persona esterna al gruppo di responsabili e viene effettuato il pushing sull'ambiente di \textbf{production} (\textit{accept}). Se la story non viene accetata si itera dal punto 4;
+\item La story viene poi \textbf{accettata} dal richiedente o comunque da una persona esterna al gruppo di responsabili e viene effettuato il pushing sull'ambiente di \textbf{production} (\textit{accept}). Se la story non viene accettata si itera dal punto 4;
 \item Infine, se la story è stata accettata avviene il suo \textbf{rilascio}, che coincide con la terminazione del suo ciclo di vita (\textit{release}).
 
 \end{enumerate}
@@ -156,50 +183,32 @@ Una volta creata la story deve passare attraverso diverse fasi, per questo si pa
 
 Alla fine dello sprint viene tracciata la somma delle complessità di tutte le stories assegnate a tutti i membri e che sono state chiuse nello sprint corrente. Tale somma è detta \textbf{velocity}, ed è un indice di efficienza di sviluppo dello sprint, che va confrontato con gli sprint precedenti.
 
-Oltre allo scrum meeting viene istanziato quotidianamente lo \textbf{stand-up meeting}, detto anche \textbf{daily scrum}, nel quale prima dell'inizio della giornata lavorativa si effettua una breve riunione con il team, in cui ciascuno espone quanto fatto nel giorno precedente e ciò che ha in programma di fare nel giorno corrente. Quest'attività è di fondamentale importanza per \textbf{monitorare} il progresso dello sprint e sollevare eventuali difficoltà riscontrate nello svolgimento della story. 
+Oltre allo scrum meeting viene instanziato quotidianamente lo \textbf{stand-up meeting}, detto anche \textbf{daily scrum}, nel quale prima dell'inizio della giornata lavorativa si effettua una breve riunione con il team, in cui ciascuno espone quanto fatto nel giorno precedente e ciò che ha in programma di fare nel giorno corrente. Quest'attività è di fondamentale importanza per \textbf{monitorare} il progresso dello sprint e sollevare eventuali difficoltà riscontrate nello svolgimento della story. 
 
 \section{Tecnologie}
 
 \subsection{Back-end}
 
-Il back-end è composto da un server scritto tramite il framework \gls{Node.js}. Questa scelta è dovuta alla grande potenza e scalabilità di quest'ultimo, oltre al fatto che si tratta di un linguaggio di programmazione all'avanguardia la cui comunità è in forte espansione. Inoltre tramite \textbf{npm}, gestore di pacchetti per Node.js, è possibile attingere ad una vasta quantità di liberie.
+Il back-end è composto da un server scritto tramite il framework \gls{Node.js}\footnote{\url{http://nodejs.org/}}. Questa scelta è dovuta alla necessità di ottimizzare i tempi di produzione e manutenzione del software e la grande potenza e scalabilità di quest'ultimo viene incontro a questo bisogno. La \textbf{programmazione asincrona} e il motore \textit{JavascriptV8} garantiscono una velocità di trasmissione molto elevata e le applicazioni web scritte con \textit{express.js}\footnote{\url{http://expressjs.com/}} sono in grado di reggere un alto carico di lavoro, sostenendo centinaia se non migliaia di richieste simultanee su macchine che non hanno a disposizione molte risorse di memoria. Inoltre Node.js è un linguaggio di programmazione all'avanguardia, in costante aggiornamento, la cui comunità è in forte espansione. Tramite \textbf{npm}\footnote{\url{https://www.npmjs.com/}}, gestore di pacchetti per Node.js, è possibile attingere ad una vasta quantità di librerie utili per ogni evenienza.
 
-Il server fornisce tutta una serie completa di \textbf{\gls{API} \gls{REST}ful} accessibili dall'esterno, alcune delle quali richiedono autenticazione. Ciò permette a tutti i client che si interfacciano con esso, in particolare l'applicazione web e l'applicazione mobile, di poter comunicare con esso in modo semplice e lineare, dovendo riferirsi solamente alle specifiche di quest'ultime ed utilizzando una libreria per la gestione delle chiamate API. 
+Il server fornisce tutta una serie completa di \textbf{\gls{API} \gls{REST}ful} accessibili dall'esterno, alcune delle quali richiedono autenticazione. Ciò permette a tutti i client che si interfacciano con esso, in particolare l'applicazione web e l'applicazione mobile, di poter comunicare con esso in modo semplice e lineare, dovendo riferirsi solamente alle specifiche di queste ultime ed utilizzando una libreria per la gestione delle chiamate API. 
 
-\begin{figure}[htpd]
-\centering
-\includegraphics[width=\textwidth/2]{../immagini/node-js-logo}
-\caption{Logo di Node.js}
-\end{figure}
-
-Parallelamente al server è stato istanziato un servizio di \textbf{pushing} fornito da \textbf{firebase}, un \textbf{\gls{Cloud Service Provider}} utilizzato per il sistema di notifiche e per fornire un punto d'accesso centralizzato dal quale i diversi componenti (intesi come componenti software) possono comunicare. Firebase fornisce infatti un \textbf{database in tempo reale}, con il quale è possibile interagire e ``\textit{mettersi in ascolto}'' degli eventi su di esso. Esso fornisce un'API pubblica per diversi stack tecnologici e piattaforme.
-
-\begin{figure}[htpd]
-\centering
-\includegraphics[width=\textwidth/2]{../immagini/firebase-logo}
-\caption{Logo di Firebase}
-\end{figure}
+Parallelamente al server è stato instanziato un servizio di \textbf{pushing} fornito da \textbf{firebase}\footnote{\url{https://www.firebase.com/}}, un \textbf{\gls{Cloud Service Provider}} utilizzato per il sistema di notifiche e per fornire un punto d'accesso centralizzato dal quale i diversi componenti (intesi come componenti software) possono comunicare. Firebase fornisce infatti un \textbf{database in tempo reale}, con il quale è possibile interagire e ``\textit{mettersi in ascolto}'' degli eventi su di esso. Esso fornisce un'API pubblica per diversi stack tecnologici e piattaforme.
 
 \subsection{Front-end}
 
-Il front-end è composto da un'applicazione web scritta con \textbf{\gls{Angular.js}} e \textbf{\gls{HTML5}}, utilizzando il framework CSS \textbf{\gls{Bootstrap}}. Tramite Angular.js è possibile interfacciarsi alle API fornite dal back-end in maniera molto efficiente e popolare dunque le pagine in base alle risposte provenienti da esso. Inoltre, analogamente a npm, per lo sviluppo di applicazioni con Angular.js è disponibile \textbf{bower}, gestore di pacchetti per quest'ultimo.
-
-\begin{figure}[htpd]
-\centering
-\includegraphics[width=\textwidth/2]{../immagini/angular-js-logo}
-\caption{Logo di Angular.js}
-\end{figure}
+Il front-end è composto da un'applicazione web scritta con \textbf{\gls{Angular.js}}\footnote{\url{https://angularjs.org/}} e \textbf{\gls{HTML5}}, utilizzando il framework CSS \textbf{\gls{Bootstrap}}\footnote{\url{http://getbootstrap.com/}}. Tramite Angular.js è possibile interfacciarsi alle API fornite dal back-end in maniera molto efficiente e popolare dunque le pagine in base alle risposte provenienti da esso. Inoltre, analogamente ad \textit{npm}, per lo sviluppo di applicazioni con Angular.js è disponibile \textbf{bower}\footnote{\url{http://bower.io/}}, gestore di pacchetti per quest'ultimo.
 
 \subsection{Database}
 
-CoffeeStrap utilizza \textbf{\gls{MongoDB}} come database documentale di riferimento. Questa scelta è dovuta alla grande flessibilità offerta dai database di questo tipo, oltre al fatto che negli ultimi mesi è divenuto molto popolare nella comunità di sviluppatori e presenta prestazioni notevoli. 
+CoffeeStrap utilizza \textbf{\gls{MongoDB}}\footnote{\url{http://www.mongodb.org/}} come database documentale di riferimento. Questa scelta è dovuta alla grande flessibilità offerta dai database di questo tipo, oltre al fatto che negli ultimi mesi è divenuto molto popolare nella comunità di sviluppatori e presenta prestazioni notevoli. 
 
 Dal momento che i requisiti cambiano molto rapidamente è necessario avvalersi di strumenti che siano il più flessibili possibili ai cambiamenti, e MongoDB risponde perfettamente a questo tipo di esigenza. Inoltre MongoDB presenta un facile approccio al suo utilizzo sia per l'utilizzo da parte dello sviluppatore che in termini di scalabilità.
 
 \begin{figure}[htpd]
 \centering
-\includegraphics[width=\textwidth/2]{../immagini/mongo-db-logo}
-\caption{Logo di MongoDB}
+\includegraphics[width=\textwidth]{../immagini/stack-composition}
+\caption{Composizione della tecnologia adottata da CoffeeStrap}  
 \end{figure}
 
 \subsection{Ambienti di sviluppo}
@@ -210,17 +219,17 @@ All'interno dell'azienda si delineano principalmente due ambienti di sviluppo:
 
 \item \textbf{Production}, all'interno del quale risiedono le versioni ufficiali del codice esposte pubblicamente agli utenti;
 
-\item \textbf{Staging}, un'ambiente riservato esclusivamente al team e che rappresenta una sorta di ``cantiere'', nel quale risiede una versione del codice ancora da verificare, che può quindi essere testata liberamente e non crea danni verso l'esterno.
+\item \textbf{Staging}, un ambiente riservato esclusivamente al team e che rappresenta una sorta di ``cantiere'', nel quale risiede una versione del codice ancora da verificare, che può quindi essere testata liberamente e non crea danni verso l'esterno.
 
 \end{itemize}
 
 Ciascun ambiente è caratterizzato dalla propria configurazione, possiede il proprio server e il proprio database ed è agnostico rispetto all'altro.
 
-Occasionalmente è inoltre uso comune istanziare un ambiente ausiliario di sviluppo, per circostanze particolari che necessitano di una configurazione diversa. Solitamente sono ambienti ``\textit{usa e getta}'', che nascono da esigenze particolare e vengono rimossi alla fine del loro utilizzo.
+Occasionalmente è inoltre uso comune instanziare un ambiente ausiliario di sviluppo, per circostanze particolari che necessitano di una configurazione diversa. Solitamente sono ambienti ``\textit{usa e getta}'', che nascono da esigenze particolare e vengono rimossi alla fine del loro utilizzo.
 
 \subsection{Versionamento}
 
-Come strumento di controllo versione del codice sorgente l'azienda utilizza \textbf{\gls{Git}}, utilizzando \textbf{Bitbucket} come servizio di hosting. I motivi che hanno spinto all'utilizzo di Git in luogo di altri sistemi di versionamento sono i seguenti:
+Come strumento di controllo versione del codice sorgente l'azienda utilizza \textbf{\gls{Git}}\footnote{\url{http://git-scm.com/}}, utilizzando \textbf{Bitbucket}\footnote{\url{https://bitbucket.org/}} come servizio di hosting. I motivi che hanno spinto all'utilizzo di Git in luogo di altri sistemi di versionamento sono i seguenti:
 
 \begin{itemize}
 
@@ -228,15 +237,9 @@ Come strumento di controllo versione del codice sorgente l'azienda utilizza \tex
 
 \item \textbf{Semplicità}: oltre ad essere veloce Git permette con facilità la creazione di \textit{branch} e successivi \textit{\gls{merge}}. L'utilizzo di questi ultimi è fondamentale per poter soddisfare il punto seguente:
 
-\item \textbf{Utilizzo di Gitflow}: questo \textbf{workflow} definisce uno stretto modello di \textit{branching} che ruota intorno al progetto. Ciò non aggiunge nuovi concetti o strumenti a Git, ma piuttosto assegna ruoli specifici ai diversi rami. Un'approfondimento di questa metodologia è raccolta nell'appendice A.
+\item \textbf{Utilizzo di Gitflow}: questo \textbf{workflow} definisce uno stretto modello di \textit{branching} che ruota intorno al progetto. Ciò non aggiunge nuovi concetti o strumenti a Git, ma piuttosto assegna ruoli specifici ai diversi rami. Un approfondimento di questa metodologia è raccolta nell'appendice A.
 
 \end{itemize}
-
-\begin{figure}[htpd]
-\centering
-\includegraphics[width=\textwidth/2]{../immagini/git-logo}
-\caption{Logo di Git}
-\end{figure}
 
 \section{Clientela di riferimento}
 
