@@ -1,14 +1,14 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
 [0] Config.pm:321> INFO - Logfile is 'tesi.blg'
-[139] biber:275> INFO - === mar dic 30, 2014, 13:00:36
-[139] Biber.pm:333> INFO - Reading 'tesi.bcf'
-[217] Biber.pm:607> INFO - Using all citekeys in bib section 0
-[509] Biber.pm:3053> INFO - Processing section 0
-[670] Biber.pm:3190> INFO - Looking for bibtex format file 'bibliografia.bib' for section 0
-[671] bibtex.pm:933> INFO - Decoding LaTeX character macros into UTF-8
-[671] bibtex.pm:808> INFO - Found BibTeX data source 'bibliografia.bib'
-[1114] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[1114] Biber.pm:2945> INFO - Sorting 'entry' list 'nty' keys
-[1114] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[1120] bbl.pm:482> INFO - Writing 'tesi.bbl' with encoding 'UTF-8'
-[1120] bbl.pm:555> INFO - Output to tesi.bbl
+[90] biber:275> INFO - === lun gen 12, 2015, 16:05:22
+[90] Biber.pm:333> INFO - Reading 'tesi.bcf'
+[170] Biber.pm:607> INFO - Using all citekeys in bib section 0
+[188] Biber.pm:3053> INFO - Processing section 0
+[207] Biber.pm:3190> INFO - Looking for bibtex format file 'bibliografia.bib' for section 0
+[208] bibtex.pm:933> INFO - Decoding LaTeX character macros into UTF-8
+[209] bibtex.pm:808> INFO - Found BibTeX data source 'bibliografia.bib'
+[248] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[248] Biber.pm:2945> INFO - Sorting 'entry' list 'nty' keys
+[248] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[253] bbl.pm:482> INFO - Writing 'tesi.bbl' with encoding 'UTF-8'
+[254] bbl.pm:555> INFO - Output to tesi.bbl

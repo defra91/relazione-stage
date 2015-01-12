@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.4)  30 DEC 2014 13:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.4)  12 JAN 2015 16:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1380,132 +1380,120 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
 ]) (./capitoli/capitolo-1.tex
 Capitolo 1.
-<immagini/../immagini/coffeestrap-logo.png, id=192, 240.9pt x 47.17625pt>
+<immagini/../immagini/coffeestrap-logo.png, id=190, 240.9pt x 47.17625pt>
 File: immagini/../immagini/coffeestrap-logo.png Graphic file (type png)
 
 <use immagini/../immagini/coffeestrap-logo.png>
 Package pdftex.def Info: immagini/../immagini/coffeestrap-logo.png used on inpu
 t line 17.
 (pdftex.def)             Requested size: 186.0pt x 36.42586pt.
-
-<immagini/../immagini/rockstart-logo.png, id=198, 1064.0553pt x 405.4347pt>
-File: immagini/../immagini/rockstart-logo.png Graphic file (type png)
-
-<use immagini/../immagini/rockstart-logo.png>
-Package pdftex.def Info: immagini/../immagini/rockstart-logo.png used on input 
-line 25.
-(pdftex.def)             Requested size: 186.0pt x 70.86552pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [1
 
 
 
- <./immagini/../immagini/coffeestrap-logo.png>] [2 <./immagini/../immagini/rock
-start-logo.png (PNG copy)>]
-<immagini/../immagini/coffeestrap-flow.png, id=229, 424.2249pt x 362.3136pt>
+ <./immagini/../immagini/coffeestrap-logo.png>] [2]
+<immagini/../immagini/coffeestrap-flow.png, id=225, 424.2249pt x 362.3136pt>
 File: immagini/../immagini/coffeestrap-flow.png Graphic file (type png)
 
 <use immagini/../immagini/coffeestrap-flow.png>
 Package pdftex.def Info: immagini/../immagini/coffeestrap-flow.png used on inpu
-t line 65.
+t line 79.
 (pdftex.def)             Requested size: 372.0pt x 317.70915pt.
  [3 <./immagini/../immagini/coffeestrap-flow.png>] [4]
-<immagini/../immagini/story-workflow.png, id=246, 398.4486pt x 289.08pt>
+<immagini/../immagini/story-workflow.png, id=243, 398.4486pt x 289.08pt>
 File: immagini/../immagini/story-workflow.png Graphic file (type png)
 
 <use immagini/../immagini/story-workflow.png>
 Package pdftex.def Info: immagini/../immagini/story-workflow.png used on input 
-line 153.
+line 167.
 (pdftex.def)             Requested size: 372.0pt x 269.89584pt.
- [5]
-<immagini/../immagini/node-js-logo.png, id=263, 481.8pt x 240.9pt>
+ [5] [6 <./immagini/../immagini/story-workflow.png>]
+<immagini/../immagini/node-js-logo.png, id=268, 481.8pt x 240.9pt>
 File: immagini/../immagini/node-js-logo.png Graphic file (type png)
 
 <use immagini/../immagini/node-js-logo.png>
 Package pdftex.def Info: immagini/../immagini/node-js-logo.png used on input li
-ne 171.
+ne 185.
 (pdftex.def)             Requested size: 186.0pt x 92.99857pt.
- [6 <./immagini/../immagini/story-workflow.png>]
-<immagini/../immagini/firebase-logo.png, id=274, 499.6266pt x 98.5281pt>
+
+<immagini/../immagini/firebase-logo.png, id=270, 499.6266pt x 98.5281pt>
 File: immagini/../immagini/firebase-logo.png Graphic file (type png)
 
 <use immagini/../immagini/firebase-logo.png>
 Package pdftex.def Info: immagini/../immagini/firebase-logo.png used on input l
-ine 179.
+ine 193.
 (pdftex.def)             Requested size: 186.0pt x 36.67882pt.
 
-<immagini/../immagini/angular-js-logo.png, id=278, 384.43625pt x 108.405pt>
+<immagini/../immagini/angular-js-logo.png, id=274, 384.43625pt x 108.405pt>
 File: immagini/../immagini/angular-js-logo.png Graphic file (type png)
 
 <use immagini/../immagini/angular-js-logo.png>
 Package pdftex.def Info: immagini/../immagini/angular-js-logo.png used on input
- line 189.
+ line 203.
 (pdftex.def)             Requested size: 186.0pt x 52.45064pt.
-
-<immagini/../immagini/mongo-db-logo.jpg, id=280, 1505.625pt x 501.875pt>
+ [7 <./immagini/../immagini/node-js-logo.png> <./immagini/../immagini/firebase-
+logo.png> <./immagini/../immagini/angular-js-logo.png>]
+<immagini/../immagini/mongo-db-logo.jpg, id=288, 1505.625pt x 501.875pt>
 File: immagini/../immagini/mongo-db-logo.jpg Graphic file (type jpg)
 
 <use immagini/../immagini/mongo-db-logo.jpg>
 Package pdftex.def Info: immagini/../immagini/mongo-db-logo.jpg used on input l
-ine 201.
+ine 215.
 (pdftex.def)             Requested size: 186.0pt x 61.99904pt.
- [7 <./immagini/../immagini/node-js-logo.png> <./immagini/../immagini/firebase-
-logo.png> <./immagini/../immagini/angular-js-logo.png>]
-<immagini/../immagini/git-logo.png, id=295, 913.4125pt x 381.425pt>
+
+<immagini/../immagini/git-logo.png, id=292, 913.4125pt x 381.425pt>
 File: immagini/../immagini/git-logo.png Graphic file (type png)
 
 <use immagini/../immagini/git-logo.png>
 Package pdftex.def Info: immagini/../immagini/git-logo.png used on input line 2
-37.
+51.
 (pdftex.def)             Requested size: 186.0pt x 77.66882pt.
- [8 <./immagini/../immagini/mongo-db-logo.jpg> <./immagini/../immagini/git-logo
-.png>]
-<immagini/../immagini/user-distribution.png, id=305, 1236.62pt x 624.3325pt>
+ [8 <./immagini/../immagini/mongo-db-logo.jpg>]
+<immagini/../immagini/user-distribution.png, id=301, 1236.62pt x 624.3325pt>
 File: immagini/../immagini/user-distribution.png Graphic file (type png)
 
 <use immagini/../immagini/user-distribution.png>
 Package pdftex.def Info: immagini/../immagini/user-distribution.png used on inp
-ut line 247.
+ut line 261.
 (pdftex.def)             Requested size: 372.0pt x 187.80609pt.
 ) (./capitoli/capitolo-2.tex
-[9 <./immagini/../immagini/user-distribution.png>] [10
+[9 <./immagini/../immagini/git-logo.png> <./immagini/../immagini/user-distribut
+ion.png>] [10
 
 ]
 Capitolo 2.
-[11]) (./capitoli/capitolo-3.tex [12]
+[11] [12] [13] [14]) (./capitoli/capitolo-3.tex [15] [16
+
+]
 Capitolo 3.
-[13
-
-]) (./capitoli/capitolo-4.tex [14]
+[17]) (./capitoli/capitolo-4.tex [18]
 Capitolo 4.
-) (./capitoli/appendice-A.tex [15
+) (./capitoli/appendice-A.tex [19
 
-] [16
+] [20
 
 ]
 Appendice A.
-[17]
-<immagini/../immagini/git-flow-model.png, id=348, 1154.3125pt x 1529.715pt>
+[21]
+<immagini/../immagini/git-flow-model.png, id=373, 1154.3125pt x 1529.715pt>
 File: immagini/../immagini/git-flow-model.png Graphic file (type png)
 
 <use immagini/../immagini/git-flow-model.png>
 Package pdftex.def Info: immagini/../immagini/git-flow-model.png used on input 
 line 35.
 (pdftex.def)             Requested size: 186.0pt x 246.48668pt.
-) [18 <./immagini/../immagini/git-flow-model.png>] (./tesi.gls [19
+) [22 <./immagini/../immagini/git-flow-model.png>] (./tesi.gls [23
 
 
 
-] [20]) (./tesi.acr)
-(./inizio-fine/bibliografia.tex [21] [22
+] [24]) (./tesi.acr)
+(./inizio-fine/bibliografia.tex [25] [26
 
 ]
 
 LaTeX Warning: Empty bibliography on input line 13.
 
-) [23
+) [27
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
@@ -1518,11 +1506,11 @@ Package logreq Info: Writing requests to 'tesi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23053 strings out of 493304
- 364103 string characters out of 6139871
- 911486 words of memory out of 5000000
+ 23074 strings out of 493304
+ 364155 string characters out of 6139871
+ 911498 words of memory out of 5000000
  25719 multiletter control sequences out of 15000+600000
- 30997 words of font info for 124 fonts, out of 8000000 for 9000
+ 31591 words of font info for 130 fonts, out of 8000000 for 9000
  959 hyphenation exceptions out of 8191
  61i,10n,122p,1689b,1433s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
@@ -1545,10 +1533,10 @@ ic/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1000
 mf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/publi
 c/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.
 pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on tesi.pdf (33 pages, 1475619 bytes).
+Output written on tesi.pdf (37 pages, 1352972 bytes).
 PDF statistics:
- 732 PDF objects out of 1000 (max. 8388607)
- 621 compressed objects within 7 object streams
- 144 named destinations out of 1000 (max. 500000)
- 35261 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 763 PDF objects out of 1000 (max. 8388607)
+ 649 compressed objects within 7 object streams
+ 154 named destinations out of 1000 (max. 500000)
+ 35256 words of extra memory for PDF output out of 35830 (max. 10000000)
 
