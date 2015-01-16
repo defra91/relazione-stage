@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.4)  12 JAN 2015 18:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.4)  15 JAN 2015 20:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1380,93 +1380,104 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
 ]) (./capitoli/capitolo-1.tex
 Capitolo 1.
-<immagini/../immagini/coffeestrap-logo.png, id=192, 240.9pt x 47.17625pt>
+<immagini/../immagini/coffeestrap-logo.png, id=196, 240.9pt x 47.17625pt>
 File: immagini/../immagini/coffeestrap-logo.png Graphic file (type png)
 
 <use immagini/../immagini/coffeestrap-logo.png>
 Package pdftex.def Info: immagini/../immagini/coffeestrap-logo.png used on inpu
-t line 17.
+t line 19.
 (pdftex.def)             Requested size: 186.0pt x 36.42586pt.
 
-<immagini/../immagini/rockstart-building.jpg, id=198, 451.6875pt x 327.2225pt>
+<immagini/../immagini/rockstart-building.jpg, id=202, 451.6875pt x 327.2225pt>
 File: immagini/../immagini/rockstart-building.jpg Graphic file (type jpg)
 
 <use immagini/../immagini/rockstart-building.jpg>
 Package pdftex.def Info: immagini/../immagini/rockstart-building.jpg used on in
-put line 25.
+put line 27.
 (pdftex.def)             Requested size: 372.0pt x 269.50752pt.
-
-Underfull \vbox (badness 2653) has occurred while \output is active []
-
  [1
 
 
 
  <./immagini/../immagini/coffeestrap-logo.png>]
-<immagini/../immagini/rockstart-ballroom.jpg, id=219, 326.1786pt x 216.81pt>
+<immagini/../immagini/rockstart-ballroom.jpg, id=223, 326.1786pt x 216.81pt>
 File: immagini/../immagini/rockstart-ballroom.jpg Graphic file (type jpg)
 
 <use immagini/../immagini/rockstart-ballroom.jpg>
 Package pdftex.def Info: immagini/../immagini/rockstart-ballroom.jpg used on in
-put line 54.
+put line 56.
 (pdftex.def)             Requested size: 372.0pt x 247.28174pt.
  [2 <./immagini/../immagini/rockstart-building.jpg>] [3 <./immagini/../immagini
 /rockstart-ballroom.jpg>]
-<immagini/../immagini/coffeestrap-flow.png, id=235, 424.2249pt x 362.3136pt>
+<immagini/../immagini/coffeestrap-flow.png, id=239, 424.2249pt x 362.3136pt>
 File: immagini/../immagini/coffeestrap-flow.png Graphic file (type png)
 
 <use immagini/../immagini/coffeestrap-flow.png>
 Package pdftex.def Info: immagini/../immagini/coffeestrap-flow.png used on inpu
-t line 92.
-(pdftex.def)             Requested size: 186.0pt x 158.85457pt.
+t line 94.
+(pdftex.def)             Requested size: 277.41437pt x 236.92738pt.
  [4 <./immagini/../immagini/coffeestrap-flow.png>] [5]
-<immagini/../immagini/story-workflow.png, id=255, 398.4486pt x 289.08pt>
+<immagini/../immagini/story-workflow.png, id=259, 398.4486pt x 289.08pt>
 File: immagini/../immagini/story-workflow.png Graphic file (type png)
 
 <use immagini/../immagini/story-workflow.png>
 Package pdftex.def Info: immagini/../immagini/story-workflow.png used on input 
-line 180.
+line 182.
 (pdftex.def)             Requested size: 372.0pt x 269.89584pt.
  [6] [7 <./immagini/../immagini/story-workflow.png>]
-<immagini/../immagini/stack-composition.png, id=301, 451.6875pt x 295.8252pt>
+<immagini/../immagini/stack-composition.png, id=305, 451.6875pt x 295.8252pt>
 File: immagini/../immagini/stack-composition.png Graphic file (type png)
 
 <use immagini/../immagini/stack-composition.png>
 Package pdftex.def Info: immagini/../immagini/stack-composition.png used on inp
-ut line 210.
+ut line 212.
 (pdftex.def)             Requested size: 372.0pt x 243.64803pt.
  [8] [9 <./immagini/../immagini/stack-composition.png>]
-<immagini/../immagini/user-distribution.png, id=337, 1236.62pt x 624.3325pt>
+<immagini/../immagini/user-distribution.png, id=341, 1236.62pt x 624.3325pt>
 File: immagini/../immagini/user-distribution.png Graphic file (type png)
 
 <use immagini/../immagini/user-distribution.png>
 Package pdftex.def Info: immagini/../immagini/user-distribution.png used on inp
-ut line 250.
+ut line 252.
 (pdftex.def)             Requested size: 372.0pt x 187.80609pt.
 ) (./capitoli/capitolo-2.tex
 [10 <./immagini/../immagini/user-distribution.png>]
 Capitolo 2.
-
-Underfull \vbox (badness 5231) has occurred while \output is active []
-
- [11
+[11
 
 ]
-<immagini/../immagini/mobile-and-web-market.png, id=346, 2144.01pt x 1429.34pt>
+<immagini/../immagini/mobile-and-web-market.png, id=350, 2144.01pt x 1429.34pt>
 File: immagini/../immagini/mobile-and-web-market.png Graphic file (type png)
 <use immagini/../immagini/mobile-and-web-market.png>
 Package pdftex.def Info: immagini/../immagini/mobile-and-web-market.png used on
  input line 37.
 (pdftex.def)             Requested size: 372.0pt x 247.97906pt.
- [12 <./immagini/../immagini/mobile-and-web-market.png>] [13] [14] [15]
-<immagini/../immagini/gantt.png, id=397, 626.34pt x 741.77126pt>
+
+Overfull \hbox (47.97891pt too wide) in paragraph at lines 39--39
+[][]|\T1/cmr/m/n/9 (-20) Fon-te: [][]$\T1/cmtt/m/n/9 http : / / waracle . net /
+ exploring-[]the-[]future-[]of-[]mobile-[]app-[]development-[]html5-[]vs-[]nati
+ve/$[][]| 
+ []
+
+[12 <./immagini/../immagini/mobile-and-web-market.png>] [13] [14]
+<immagini/../immagini/vincoli-tec.png, id=395, 523.9575pt x 384.4764pt>
+File: immagini/../immagini/vincoli-tec.png Graphic file (type png)
+
+<use immagini/../immagini/vincoli-tec.png>
+Package pdftex.def Info: immagini/../immagini/vincoli-tec.png used on input lin
+e 138.
+(pdftex.def)             Requested size: 284.52756pt x 208.78748pt.
+ [15]
+<immagini/../immagini/gantt.png, id=405, 626.34pt x 741.77126pt>
 File: immagini/../immagini/gantt.png Graphic file (type png)
 
 <use immagini/../immagini/gantt.png>
-Package pdftex.def Info: immagini/../immagini/gantt.png used on input line 162.
+Package pdftex.def Info: immagini/../immagini/gantt.png used on input line 169.
 
 (pdftex.def)             Requested size: 372.0pt x 440.57275pt.
-) (./capitoli/capitolo-3.tex [16] [17 <./immagini/../immagini/gantt.png>] [18
+) (./capitoli/capitolo-3.tex [16 <./immagini/../immagini/vincoli-tec.png>] [17 
+<./immagini/../immagini/gantt.png>]
+[18
 
 ]
 Capitolo 3.
@@ -1479,7 +1490,7 @@ Capitolo 4.
 ]
 Appendice A.
 [23]
-<immagini/../immagini/git-flow-model.png, id=435, 1154.3125pt x 1529.715pt>
+<immagini/../immagini/git-flow-model.png, id=444, 1154.3125pt x 1529.715pt>
 File: immagini/../immagini/git-flow-model.png Graphic file (type png)
 
 <use immagini/../immagini/git-flow-model.png>
@@ -1510,11 +1521,11 @@ Package logreq Info: Writing requests to 'tesi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23099 strings out of 493304
- 364533 string characters out of 6139871
- 911504 words of memory out of 5000000
- 25721 multiletter control sequences out of 15000+600000
- 31710 words of font info for 131 fonts, out of 8000000 for 9000
+ 23157 strings out of 493304
+ 365576 string characters out of 6139871
+ 912445 words of memory out of 5000000
+ 25765 multiletter control sequences out of 15000+600000
+ 33381 words of font info for 139 fonts, out of 8000000 for 9000
  959 hyphenation exceptions out of 8191
  61i,10n,122p,1689b,1433s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
@@ -1536,11 +1547,12 @@ ic/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1000
 .pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/tex
 mf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/publi
 c/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.
-pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on tesi.pdf (39 pages, 1718318 bytes).
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on tesi.pdf (39 pages, 1962904 bytes).
 PDF statistics:
- 829 PDF objects out of 1000 (max. 8388607)
- 716 compressed objects within 8 object streams
- 175 named destinations out of 1000 (max. 500000)
- 35256 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 845 PDF objects out of 1000 (max. 8388607)
+ 727 compressed objects within 8 object streams
+ 177 named destinations out of 1000 (max. 500000)
+ 37821 words of extra memory for PDF output out of 42996 (max. 10000000)
 

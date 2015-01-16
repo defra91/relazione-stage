@@ -1,3 +1,4 @@
+\glossaryentry{back-end?\glossentry{back-end}|setentrycounter[]{page}\glsnumberformat}{iii}
 \glossaryentry{start-up?\glossentry{start-up}|setentrycounter[]{page}\glsnumberformat}{1}
 \glossaryentry{CEO?\glossentry{CEO}|setentrycounter[]{page}\glsnumberformat}{1}
 \glossaryentry{CTO?\glossentry{CTO}|setentrycounter[]{page}\glsnumberformat}{1}
@@ -24,9 +25,10 @@
 \glossaryentry{agile?\glossentry{agile}|setentrycounter[]{page}\glsnumberformat}{25}
 \glossaryentry{Angular.js?\glossentry{Angular.js}|setentrycounter[]{page}\glsnumberformat}{25}
 \glossaryentry{API?\glossentry{API}|setentrycounter[]{page}\glsnumberformat}{25}
+\glossaryentry{back-end?\glossentry{back-end}|setentrycounter[]{page}\glsnumberformat}{25}
 \glossaryentry{Bootstrap?\glossentry{Bootstrap}|setentrycounter[]{page}\glsnumberformat}{25}
 \glossaryentry{brainstorming?\glossentry{brainstorming}|setentrycounter[]{page}\glsnumberformat}{25}
-\glossaryentry{CEO?\glossentry{CEO}|setentrycounter[]{page}\glsnumberformat}{25}
+\glossaryentry{CEO?\glossentry{CEO}|setentrycounter[]{page}\glsnumberformat}{26}
 \glossaryentry{Cloud Service Provider?\glossentry{Cloud Service Provider}|setentrycounter[]{page}\glsnumberformat}{26}
 \glossaryentry{commit?\glossentry{commit}|setentrycounter[]{page}\glsnumberformat}{26}
 \glossaryentry{CPO?\glossentry{CPO}|setentrycounter[]{page}\glsnumberformat}{26}
@@ -38,7 +40,7 @@
 \glossaryentry{MongoDB?\glossentry{MongoDB}|setentrycounter[]{page}\glsnumberformat}{26}
 \glossaryentry{Node.js?\glossentry{Node.js}|setentrycounter[]{page}\glsnumberformat}{26}
 \glossaryentry{peer-to-peer?\glossentry{peer-to-peer}|setentrycounter[]{page}\glsnumberformat}{26}
-\glossaryentry{REST?\glossentry{REST}|setentrycounter[]{page}\glsnumberformat}{26}
+\glossaryentry{REST?\glossentry{REST}|setentrycounter[]{page}\glsnumberformat}{27}
 \glossaryentry{scrum?\glossentry{scrum}|setentrycounter[]{page}\glsnumberformat}{27}
 \glossaryentry{sprint?\glossentry{sprint}|setentrycounter[]{page}\glsnumberformat}{27}
 \glossaryentry{start-up?\glossentry{start-up}|setentrycounter[]{page}\glsnumberformat}{27}

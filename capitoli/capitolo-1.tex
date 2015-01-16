@@ -10,7 +10,9 @@
 
 \section{L'azienda CoffeeStrap inc.}
 
-CoffeeStrap inc\footnote{\url{http://www.coffeestrap.com/}}. è un'azienda \gls{start-up} in ambito web/mobile nata nei primi mesi del 2013 dalla collaborazione di Mahesh Casiraghi e Alessandro Maccagnan, che attualmente ricoprono al suo interno rispettivamente i ruoli di \gls{CEO} e \gls{CTO}. Dal mese di Aprile del 2014 inoltre si è aggiunto al team un ulteriore componente, Milo Ertola, che attualmente ricopre il ruolo di \gls{CPO} e si occupa dello sviluppo web. 
+CoffeeStrap inc\footnote{\url{http://www.coffeestrap.com/}}. è un'azienda \gls{start-up} in ambito web/mobile nata nei primi mesi del 2013 dalla collaborazione di Mahesh Casiraghi ed Alessandro Maccagnan (il quale nell'ambito dello stage assume il ruolo di \textit{tutor aziendale}), che attualmente ricoprono al suo interno rispettivamente i ruoli di \gls{CEO} e \gls{CTO}. Dal mese di Aprile del 2014 inoltre si è aggiunto al team un ulteriore componente, Milo Ertola, che attualmente ricopre il ruolo di \gls{CPO} e si occupa dello sviluppo web. 
+
+Maccagnan ed Ertola, inoltre, hanno frequentato il corso di laurea in informatica presso l'Università degli studi di Padova, iscrivendosi nel 2001 e terminando il loro percorso nel 2004.
 
 \begin{figure}[htpd]
 \centering
@@ -89,8 +91,8 @@ Una volta completato il profilo l'utente inizia a parlare una lingua passando at
 
 \begin{figure}[htpd]
 \centering
-\includegraphics[width=\textwidth/2]{../immagini/coffeestrap-flow}
-\caption{Flusso utente}
+\includegraphics[width=9.75cm]{../immagini/coffeestrap-flow}
+\caption{Rappresentazione del flusso utente di CoffeeStrap}
 \end{figure}
 
 Gli utenti vengono notificati tramite \textbf{notifica email} e, in seguito allo sviluppo dell'applicazione, \textbf{notifica mobile}.
@@ -99,7 +101,7 @@ Gli utenti vengono notificati tramite \textbf{notifica email} e, in seguito allo
 
 CoffeeStrap adotta la metodologia di sviluppo \textbf{\gls{agile}}\footnote{\url{http://agilemanifesto.org/}}. Il particolare contesto entro il quale si trova fa sì che i requisiti cambiano molto spesso e porta dunque quest'ultima a dover iterare molto velocemente sul proprio prodotto, che si trova ancora nella sua fase primordiale e necessita di modifiche e miglioramenti costanti. Proprio a fronte di queste necessità è importante mantenere la massima flessibilità possibile nello sviluppo, motivo per cui questo modello di ciclo di vita è in questo momento il più conveniente in termini di efficienza ed efficacia. In particolare la metodologia adottata è quella \textbf{agile \gls{scrum}}.
 
-Il tipo di iterazione utilizzata è su base settimanale. Una volta a settimana, normalmente il Mercoledì, avviene lo \textbf{scrum meeting}, una riunione della durata di circa due ore nella quale si fissano \textbf{stories} da risolvere nello \textbf{\gls{sprint}} corrente. Una story è un concetto molto simile a quello di \textbf{ticket}, ed è composta dai seguenti campi:
+Il tipo di iterazione utilizzata è su base settimanale. Una volta a settimana, normalmente il Mercoledì, avviene lo \textbf{scrum meeting}, una riunione della durata di circa due ore nella quale si fissano \textbf{story} da risolvere nello \textbf{\gls{sprint}} corrente. Una story è un concetto molto simile a quello di \textbf{ticket}, ed è composta dai seguenti campi:
 
 \begin{itemize}
 
@@ -116,8 +118,8 @@ Il tipo di iterazione utilizzata è su base settimanale. Una volta a settimana, 
 	\end{itemize}
 
 \item \textbf{Descrizione}, che fornisce una dettagliata sintesi della story.
-\item Una o più \textbf{etichette}, che forniscono un filtro alle stories;
-\item \textbf{Complessità}, che è un indice soggettivo di quante risorse sono necessarie per il completamento della story. Questo valore segue la sequenza di Fibonacci e può assumere i valori 1, 2, 5, 8, 13. Se una story ha una complessità superiore a 13 essa dev'essere necessariamente spezzata in due o più sotto-stories. Solamente alle features può essere assegnata complessità, in quanto sono le uniche stories che realmente forniscono un valore al business;
+\item Una o più \textbf{etichette}, che forniscono un filtro;
+\item \textbf{Complessità}, che è un indice soggettivo di quante risorse sono necessarie per il completamento della story. Questo valore segue la sequenza di Fibonacci e può assumere i valori 1, 2, 5, 8, 13. Se una story ha una complessità superiore a 13 essa dev'essere necessariamente spezzata in due o più sotto-story. Solamente alle features può essere assegnata complessità, in quanto sono le uniche story che realmente forniscono un valore al business;
 \item \textbf{Richiedente}, che dev'essere unico;
 \item Uno o più \textbf{responsabili} (\textit{owners}), che possono coincidere con il richiedente e sono coloro che devono occuparsi direttamente della story;
 
@@ -152,13 +154,13 @@ Ciascuna story è inserita all'interno di una \textbf{board}. Ci sono tre tipolo
 
 \begin{itemize}
 
-\item \textbf{Current}, contenente le stories attive nello sprint corrente;
-\item \textbf{Backlog}, contenente la ``coda'' delle stories da attivare;
-\item \textbf{Icebox}, contente stories in attesa di approvazione e attivazione. Le stories possono rimanere su questa board per un tempo indeterminato, finché vengono spostate sul backlog o rimosse definitivamente.
+\item \textbf{Current}, contenente le story attive nello sprint corrente;
+\item \textbf{Backlog}, contenente la ``coda'' delle story da attivare;
+\item \textbf{Icebox}, contente story in attesa di approvazione e attivazione. Le story possono rimanere su questa board per un tempo indeterminato, finché vengono spostate sul backlog o rimosse definitivamente.
 
 \end{itemize} 
 
-A ciascun membro del team vengono assegnate una o più stories, la cui scadenza è lo scrum meeting successivo. A quest'ultimo viene richiesto inoltre di assegnare la complessità a quella story, la quale dovrà essere calcolata secondo criteri derivati dalla propria esperienza di sviluppo. Ogni story dev'essere analizzata, progettata, sviluppata e infine testata. La chiusura della story viene effettuata solamente al seguito di una verifica e validazione da parte del responsabile e del richiedente o, se il richiedente coincide con il responsabile, da un altro membro del team. In generale i responsabili non possono approvare le proprie stories.
+A ciascun membro del team vengono assegnate una o più story, la cui scadenza è lo scrum meeting successivo. A quest'ultimo viene richiesto inoltre di assegnare la complessità a quella story, la quale dovrà essere calcolata secondo criteri derivati dalla propria esperienza di sviluppo. Ogni story dev'essere analizzata, progettata, sviluppata e infine testata. La chiusura della story viene effettuata solamente al seguito di una verifica e validazione da parte del responsabile e del richiedente o, se il richiedente coincide con il responsabile, da un altro membro del team. In generale i responsabili non possono approvare le proprie story.
 
 Una volta creata la story deve passare attraverso diverse fasi, per questo si parla di \textbf{story workflow}:
 
@@ -181,7 +183,7 @@ Una volta creata la story deve passare attraverso diverse fasi, per questo si pa
 \caption{Il flusso di una story}
 \end{figure}
 
-Alla fine dello sprint viene tracciata la somma delle complessità di tutte le stories assegnate a tutti i membri e che sono state chiuse nello sprint corrente. Tale somma è detta \textbf{velocity}, ed è un indice di efficienza di sviluppo dello sprint, che va confrontato con gli sprint precedenti.
+Alla fine dello sprint viene tracciata la somma delle complessità di tutte le story assegnate a tutti i membri e che sono state chiuse nello sprint corrente. Tale somma è detta \textbf{velocity}, ed è un indice di efficienza di sviluppo dello sprint, che va confrontato con gli sprint precedenti.
 
 Oltre allo scrum meeting viene instanziato quotidianamente lo \textbf{stand-up meeting}, detto anche \textbf{daily scrum}, nel quale prima dell'inizio della giornata lavorativa si effettua una breve riunione con il team, in cui ciascuno espone quanto fatto nel giorno precedente e ciò che ha in programma di fare nel giorno corrente. Quest'attività è di fondamentale importanza per \textbf{monitorare} il progresso dello sprint e sollevare eventuali difficoltà riscontrate nello svolgimento della story. 
 

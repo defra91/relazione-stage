@@ -14,7 +14,7 @@ Il progetto svolto da me durante l'attività di stage consiste nello sviluppo di
 
 \subsection{Motivazioni}
 
-Come già presentato nel capitolo 1, CoffeeStrap ha come primo e unico scopo lo sviluppo di una piattaforma peer-to-peer per l'apprendimento di una lingua tramite interazioni tra utenti. Lo scopo principale in questa prima fase di sviluppo è quella di raccogliere un bacino utenti considerevole, in modo da poter capire su quale linea portare avanti l'idea e modellare quest'ultima in base al \textit{feedback} e al tipo di iterazione dell'utente medio. Prima dell'inizio del mio stage CoffeeStrap disponeva solamente dell'applicazione web, la quale possedeva circa 2000 iscritti e mediamente 15 utenti attivi al giorno. 
+Come già presentato nel capitolo 1, CoffeeStrap ha come primo e unico scopo lo sviluppo di un sistema peer-to-peer per l'apprendimento di una lingua tramite interazioni tra utenti. Lo scopo principale in questa prima fase di sviluppo consiste nels raccogliere un bacino utenti considerevole, in modo da poter capire su quale linea portare avanti l'idea e modellare quest'ultima in base al \textit{feedback} e al tipo di iterazione dell'utente medio. Prima dell'inizio del mio stage CoffeeStrap disponeva solamente dell'applicazione web, la quale possedeva circa 2000 iscritti e mediamente 15 utenti attivi al giorno. 
 
 Il progetto di stage che ho svolto nasce dunque dalla necessità di affiancare all'applicazione web l'applicazione mobile, in modo da poter fornire all'utente più possibilità di utilizzo del prodotto ed arrivare inoltre ad un considerevole incremento del bacino utenti. La considerazione principale a monte di ciò è il fatto che oggigiorno l'utente medio spende la maggior parte del proprio tempo sul proprio smartphone piuttosto che sul proprio PC, per tutti i vantaggi legati alla tecnologia mobile. È di fatto una necessità imprescindibile per una start-up in ambito \textit{web/mobile} estendersi su più piattaforme se si vuole competere in un certo tipo di mercato ed ottenere dei finanziamenti. In aggiunta CoffeeStrap può essere categorizzato di fatto come \textit{social network}, ulteriore motivo per il quale sviluppare il prodotto su mobile è di importanza fondamentale.
 
@@ -35,7 +35,8 @@ Possiamo sintetizzare in cinque punti i vantaggi per cui un'azienda dovrebbe ave
 \begin{figure}[htpd]
 \centering
 \includegraphics[width=\textwidth]{../immagini/mobile-and-web-market}
-\caption{Comparazione di traffico web mobile e mobile app tra il 2011 e il 2012}  
+\caption{Raffronto di traffico web mobile e mobile app tra il 2011 e il 2012.}  
+\caption*{Fonte: \url{http://waracle.net/exploring-the-future-of-mobile-app-development-html5-vs-native/}}
 \end{figure}
 
 \subsection{Aspettative}
@@ -111,9 +112,9 @@ All'inizio dello stage è stata fatta una valutazione riguardo lo \textit{stack 
 
 \end{itemize}
 
-Il vantaggio delle prime due è quello legato all'utilizzo di questo genere di framework, ovvero la possibilità di effettuare un \textit{delivery} rapido e multi piattaforma di un'applicazione. Il codice, infatti, si scrive velocemente con un meta linguaggio ed attraverso librerie esterne precompilate esso viene adattato per i diversi sistemi operativi in fase di compilazione. 
+Il vantaggio dei primi due è quello legato all'utilizzo di questo genere di framework, ovvero la possibilità di effettuare un \textit{delivery} rapido e multi piattaforma di un'applicazione. Il codice, infatti, si scrive velocemente con un meta linguaggio ed attraverso librerie esterne precompilate esso viene adattato per i diversi sistemi operativi in fase di compilazione. 
 
-D'altra parte una \textbf{criticità} di questi framework consiste nella loro rigidità in fase progettuale: il loro utilizzo, infatti, limita in parte la possibilità di sfruttare le caratteristiche native del \textit{device}, delle linee guida dell'interfaccia e del sistema operativo su cui avverrà il \textit{deploy} dell'applicazione. Spesso dunque si corre il rischio di non arrivare ad un prodotto conforme alle attese con un'interfaccia utente poco ergonomica e intuitiva. Inoltre non è garantito un supporto su lungo periodo alle medesime condizioni. Alcuni framework tendono infatti a non essere più supportati dopo un lungo periodo e il rischio è quello di dover riprogettare tutto daccapo.
+D'altra parte una \textbf{criticità} di questi framework consiste nella loro rigidità in fase progettuale: il loro utilizzo, infatti, limita in parte la possibilità di sfruttare le caratteristiche native del \textit{device}, delle linee guida dell'interfaccia e del sistema operativo su cui avverrà il \textit{deployement} dell'applicazione. Spesso dunque si corre il rischio di non arrivare ad un prodotto conforme alle attese con un'interfaccia utente poco ergonomica e intuitiva. Inoltre non è garantito un supporto su lungo periodo alle medesime condizioni. Alcuni framework tendono infatti a non essere più supportati dopo un lungo periodo e il rischio è quello di dover riprogettare tutto daccapo.
 
 Sviluppare un'applicazione nativa garantisce quindi maggiore efficienza in fase di sviluppo e progettazione e porta ad un risultato migliore in termini di usabilità. Chiaramente lo svantaggio è quello di poter supportare un solo sistema operativo, motivo per cui in un futuro CoffeeStrap dovrà ad esempio instanziare un nuovo progetto per l'applicazione \textit{iOS}, molto richiesta dal mercato.
 
@@ -132,9 +133,15 @@ Alla fine la scelta è ricaduta proprio sullo sviluppo nativo, quindi il vincolo
 
 \end{itemize} 
 
+\begin{figure}[htpd]
+\centering
+\includegraphics[width=10cm]{../immagini/vincoli-tec}
+\caption{Stack tecnologico imposto} 
+\end{figure}
+
 \subsection{Vincoli metodologici}
 
-CoffeeStrap ha ritenuto importante il mio inserimento all'interno del team e l'apprendimento da parte mia delle loro metodologie di lavoro, pertanto fin dalla prima settimana sono stato inserito all'interno dei meccanismi di sviluppo agile, ho partecipato attivamente agli scrum meeting e agli stand-up meeting e ho creato e svolto le mie stories con gli stessi procedimenti attuati dagli altri membri. 
+CoffeeStrap ha ritenuto importante il mio inserimento all'interno del team e l'apprendimento da parte mia delle loro metodologie di lavoro, pertanto fin dalla prima settimana sono stato inserito all'interno dei meccanismi di sviluppo agile, ho partecipato attivamente agli scrum meeting e agli stand-up meeting e ho creato e svolto le mie story con gli stessi procedimenti attuati dagli altri membri. 
 
 Oltre a questo c'è stato un monitoraggio costante da parte del \textit{tutor} aziendale sui processi e le metodologie da me instanziati per l'apprendimento e lo sviluppo della tecnologia, che hanno fatto sì che prendessi gradualmente confidenza con il \textit{modus operandi} adottato dall'azienda.
 
@@ -142,7 +149,7 @@ Oltre a questo c'è stato un monitoraggio costante da parte del \textit{tutor} a
 
 Lo stage viene distribuito in 8 settimane di calendario, per una durata complessiva di 300-320 ore lavorative. Ogni settimana sono previste 40 ore, considerando una giornata lavorativa composta di 8 ore. Lo stage può dunque considerarsi un'attività a tempo pieno.
 
-Nonostante questo vincolo temporale imposto le modalità operative non prevedevano un conteggio delle ore lavorative, ma erano basate sullo svolgimento delle \textit{stories}, descritte nel capitolo 1. A fronte di ciò posso affermare che quanto realizzato a livello di ore lavorative differisce in eccesso rispetto a quanto pianificato, in quanto la completa libertà di gestire il proprio tempo ha fatto sì che molto spesso le mie giornate lavorative si prolungassero oltre le 8 ore e che il sabato e la domenica (giorni non considerati in un calendario lavorativo) venissero frequentemente spesi nello sviluppo dell'applicazione.
+Nonostante questo vincolo temporale imposto le modalità operative non prevedevano un conteggio delle ore lavorative, ma erano basate sullo svolgimento delle \textit{story}, descritte nel capitolo 1. A fronte di ciò posso affermare che quanto realizzato a livello di ore lavorative differisce in eccesso rispetto a quanto pianificato, in quanto la completa libertà di gestire il proprio tempo ha fatto sì che molto spesso le mie giornate lavorative si prolungassero oltre le 8 ore e che il sabato e la domenica (giorni non considerati in un calendario lavorativo) venissero frequentemente spesi nello sviluppo dell'applicazione.
 
 In nessun modo CoffeeStrap ha imposto vincoli temporali superiori a quanto pattuito. Queste scelte da me effettuate sono state puramente personali, derivate dalla forte motivazione e sollecitazione date dal progetto, di per se molto stimolante, e dalla crescente voglia di imparare.
 
