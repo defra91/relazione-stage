@@ -10,11 +10,82 @@
 
 \section{Pianificazione del lavoro}
 
-In questa sezione descriverò come il progetto è stato suddiviso nell'arco delle otto settimane e quali erano gli obiettivi alla fine di ciascun periodo.
+Le otto settimane lavorative sono state distribuite in quattro periodi:
+
+\begin{itemize}
+
+\item \textbf{Periodo di apprendimento ed analisi}, nel quale sono entrato in contatto con lo \textit{stack tecnologico} da utilizzare, comprese le tecnologie da integrare, ed ho analizzato nel dettaglio quali fossero i requisiti richiesti dall'applicazione;
+\item \textbf{Periodo di progettazione}, nel quale per ogni requisito ho trovato la soluzione adeguata, andando a delineare l'architettura dell'applicazione. In questo periodo affiancato a questa attività ho inoltre sviluppato un prototipo, in modo da poter verificare l'adeguatezza e funzionalità delle soluzioni progettate;
+\item \textbf{Periodo di sviluppo e codifica}, nel quale ho realizzato la maggior parte del codice dell'applicazione e implementato tutte le \textit{features};
+\item \textbf{Periodo di rifinitura e testing}, nel quale ho testato l'applicazione con altri utenti e in base al feedback ho raffinato ulteriormente il prodotto, andando a risolvere i numerosi \textit{bug} emersi;
+
+\end{itemize}
+
+Di seguito viene riportato il diagramma di Gantt relativo alla pianificazione del lavoro realizzata prima dell'inizio dell'attività di stage:
+
+\begin{figure}[htpd]
+\centering
+\includegraphics[width=\textwidth]{../immagini/gantt}
+\caption{Diagramma di Gantt relativo alla pianificazione del lavoro}  
+\end{figure}
 
 \section{Norme, procedure e strumenti}
 
-In questa sezione descriverò tutte le norme e le procedure con il quale ho organizzato il mio lavoro, quali processi ho attuato con le loro motivazioni e di quali strumenti mi sono avvalso per l'attuazione di tali processi.
+\subsection*{Strumenti generali}
+
+Per la gestione delle \textit{story} è stato scelto lo strumento \textbf{pivotal tracker}\footnote{\url{https://www.pivotaltracker.com/signin}}, tramite il quale è possibile tener traccia di tutte le story ed avere una panoramica sulle \textit{board}. In particolare è possibile creare progetti condivisi tra più utenti e quindi aver sempre a disposizione il monitoraggio del proprio lavoro e di quello degli altri membri.
+
+\begin{figure}[htpd]
+\centering
+\includegraphics[width=\textwidth]{../immagini/pivotal-tracker}
+\caption{Schermata di pivotaltracker}  
+\end{figure}
+
+Per la comunicazione interna al \textit{team} è stato scelto l'utilizzo di \textbf{hipchat}\footnote{\url{https://www.hipchat.com/}}, il quale fornisce un sistema di messaggistica istantanea e di video conferenze, in modo analogo a quanto offerto da servizi come \textit{skype} o \textit{google hangout}. Hipchat permette inoltre di creare delle ``stanze'' con più utenti, in modo da poter discutere di un preciso argomento o tema. Questo strumento è di fatto fondamentale per poter lavorare da remoto.
+
+\begin{figure}[htpd]
+\centering
+\includegraphics[width=\textwidth]{../immagini/hipchat}
+\caption{}  
+\end{figure}
+
+\subsection*{Formazione e analisi}
+
+All'inizio dell'attività di stage il mio bagaglio tecnico era in linea con l'insegnamento accademico del mio corso di laurea, quindi sostanzialmente avevo buone conoscenze riguardo al linguaggio \textbf{C++}, \textbf{Java}, \textbf{Javascript} e \textbf{PhP}. Inoltre possedevo discrete conoscenze di gestione di database relazionali e documentali, oltre ad una buona preparazione circa lo sviluppo web.
+
+Ciononostante non avevo mai prima di allora sviluppato un'applicazione mobile. Le mie conoscenze in ambito Android erano piuttosto limitate, avevo frequentato alcuni seminari presso l'università e mi ero cimentato per un breve periodo.
+
+A fronte di questa mancanza di conoscenza è stato dunque necessario instanziare un periodo di autoformazione, in modo da entrare in contatto con la tecnologia e poter dunque realizzare l'applicazione. Quest'attività è stata svolta principalmente tramite la lettura e lo studio delle guide Android, messe a disposizione nel sito ufficiale.\footnote{\url{http://developer.android.com/training/index.html}}. Oltre a questo ho consultato le altrettante guide per ciascuna delle tecnologie da integrare all'interno dell'applicazione. Tutti i siti web consultati possono essere trovati in bibliografia. Non ho ritenuto essenziale fornirmi di un libro di testo in quanto le guide e i numerosi esempi disponibili nella rete erano di per sè più che sufficienti.
+
+Per quanto riguarda l'analisi dei requisiti non vi è stata una norma o attività instanziata \textit{ad hoc}, in quanto essa avrebbe rallentato il processo di sviluppo. Non vi è stato inoltre una documentazione e un tracciamento dei requisiti in quanto, essendo che in essi cambiano rapidamente, quest'ultime attività avrebbero portato ad un dispendio di tempo notevole e ad un conseguente rallentamento dello sviluppo. La principale metodologia di supporto all'analisi è stata il semplice \textit{brainstorming}.
+
+\subsection*{Progettazione}
+
+In questo periodo ho iniziato ad ideare l'architettura software dell'applicazione e concorrentemente a sviluppare un \textit{prototipo} secondo i requisiti emersi. Per questo ho installato e configurato l'SDK ufficiale di Android, utilizzando in primo luogo l'IDE Eclipse\footnote{\url{https://eclipse.org/home/index.php}}, il quale mette a disposizione un ottimo plugin per l'integrazione con esso. 
+
+Per la progettazione del layout dell'applicazione ho utilizzato \textbf{lucidchart}\footnote{\url{https://www.lucidchart.com/?utm_expid=39895073-63.LohXHUI7T6yhe2x7Iyjc7Q.0}} come strumento per la realizzazione di \gls{mockup}. Quest'ultimo stumento è stato inoltre utilizzato per la realizzazione dei diagrammi di attività e classi in \gls{UML}. Lucidchart si è rivelato uno strumento molto utile e di facile utilizzo, che permette una gestione sia \textit{online} che \textit{offline} dei diagrammi e permette ad altri utenti di condividere un documento e modificarlo in tempo reale. Quest'ultima caratteristica si è rivelata particolarmente utile nel momento in cui vi era necessità di discutere sulla progettazione.
+
+\begin{figure}
+\begin{minipage}[b]{7cm}
+\centering
+\includegraphics[width=7cm]{../immagini/lucidchart-mockup}
+\caption{Lucidchart per la realizzazione di mockup}
+\end{minipage}
+\ \hspace{2mm} \hspace{3mm} \
+\begin{minipage}[b]{7cm}
+\centering
+\includegraphics[width=7cm]{../immagini/lucidchart-uml}
+\caption{Lucidchart per la realizzazione di diagrammi UML}
+\end{minipage}
+\end{figure}
+
+In questo periodo e nei successivi sono stati inoltre prodotti dei documenti di specifica, realizzati tramite \textbf{google documents}\footnote{\url{http://www.google.com/docs/about/}}. Questa scelta, così come quella di lucidchart, è dovuta alla estrema facilità di utilizzo di tale strumento e alla possibilità di condividere documenti in tempo reale. Inoltre con google documents è possibile inserire in ogni documento dei suggerimenti, che in seguito l'autore prenderà in considerazione.
+
+\subsection*{Codifica}
+
+In seguito al periodo di progettazione ho deciso, per questioni di efficienza, di abbandonare Eclipse per passare dunque ad \textbf{Android Studio}\footnote{}
+
+\subsection*{Testing}
 
 \section{Periodo di formazione}
 

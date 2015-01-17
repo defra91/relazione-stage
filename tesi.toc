@@ -44,7 +44,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.2}Vincoli metodologici}{15}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}Vincoli temporali}{16}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}Vincoli temporali}{17}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Il progetto di stage}{19}{chapter.3}
 \defcounter {refsection}{0}\relax 
@@ -52,40 +52,40 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Norme, procedure e strumenti}{19}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Periodo di formazione}{19}{section.3.3}
+\contentsline {section}{\numberline {3.3}Periodo di formazione}{23}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Apprendimento della tecnologia}{19}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.1}Apprendimento della tecnologia}{23}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Integrazione con le tecnologie aziendali}{19}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.2}Integrazione con le tecnologie aziendali}{23}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Progettazione}{19}{section.3.4}
+\contentsline {section}{\numberline {3.4}Progettazione}{23}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}Progettazione del flusso utente}{19}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.1}Progettazione del flusso utente}{23}{subsection.3.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}Progettazione del layout}{20}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.2}Progettazione del layout}{23}{subsection.3.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.3}Progettazione architetturale}{20}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.3}Progettazione architetturale}{23}{subsection.3.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Sviluppo e codifica}{20}{section.3.5}
+\contentsline {section}{\numberline {3.5}Sviluppo e codifica}{24}{section.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Rifinitura e testing}{20}{section.3.6}
+\contentsline {section}{\numberline {3.6}Rifinitura e testing}{24}{section.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.7}Validazione del prodotto e rilascio}{20}{section.3.7}
+\contentsline {section}{\numberline {3.7}Validazione del prodotto e rilascio}{24}{section.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Valutazioni retrospettive}{21}{chapter.4}
+\contentsline {chapter}{\numberline {4}Valutazioni retrospettive}{25}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Bilancio sui risultati}{21}{section.4.1}
+\contentsline {section}{\numberline {4.1}Bilancio sui risultati}{25}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Bilancio formativo}{21}{section.4.2}
+\contentsline {section}{\numberline {4.2}Bilancio formativo}{25}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Distanza tra contesto lavorativo e mondo accademico}{21}{section.4.3}
+\contentsline {section}{\numberline {4.3}Distanza tra contesto lavorativo e mondo accademico}{25}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Gitflow}{23}{appendix.Alph1}
+\contentsline {chapter}{\numberline {A}Gitflow}{27}{appendix.Alph1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}I branch principali}{23}{section.Alph1.1}
+\contentsline {section}{\numberline {A.1}I branch principali}{27}{section.Alph1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}I branch di supporto}{23}{section.Alph1.2}
+\contentsline {section}{\numberline {A.2}I branch di supporto}{27}{section.Alph1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Glossario}{25}{section*.24}
+\contentsline {chapter}{Glossario}{29}{section*.33}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografia}{29}{section*.26}
+\contentsline {chapter}{Bibliografia}{33}{section*.35}
