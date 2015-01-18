@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.4)  17 JAN 2015 20:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.4)  18 JAN 2015 19:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1375,14 +1375,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 \openout9 = `tesi.lot'.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5771) has occurred while \output is active []
 
  [9
 
 ]
 [10]) (./capitoli/capitolo-1.tex
 Capitolo 1.
-<immagini/../immagini/coffeestrap-logo.png, id=206, 240.9pt x 47.17625pt>
+<immagini/../immagini/coffeestrap-logo.png, id=210, 240.9pt x 47.17625pt>
 File: immagini/../immagini/coffeestrap-logo.png Graphic file (type png)
 
 <use immagini/../immagini/coffeestrap-logo.png>
@@ -1390,7 +1390,7 @@ Package pdftex.def Info: immagini/../immagini/coffeestrap-logo.png used on inpu
 t line 19.
 (pdftex.def)             Requested size: 186.0pt x 36.42586pt.
 
-<immagini/../immagini/rockstart-building.jpg, id=212, 451.6875pt x 327.2225pt>
+<immagini/../immagini/rockstart-building.jpg, id=216, 451.6875pt x 327.2225pt>
 File: immagini/../immagini/rockstart-building.jpg Graphic file (type jpg)
 
 <use immagini/../immagini/rockstart-building.jpg>
@@ -1403,7 +1403,7 @@ put line 27.
 
 
  <./immagini/../immagini/coffeestrap-logo.png>]
-<immagini/../immagini/rockstart-ballroom.jpg, id=233, 326.1786pt x 216.81pt>
+<immagini/../immagini/rockstart-ballroom.jpg, id=237, 326.1786pt x 216.81pt>
 File: immagini/../immagini/rockstart-ballroom.jpg Graphic file (type jpg)
 
 <use immagini/../immagini/rockstart-ballroom.jpg>
@@ -1412,7 +1412,7 @@ put line 56.
 (pdftex.def)             Requested size: 372.0pt x 247.28174pt.
  [2 <./immagini/../immagini/rockstart-building.jpg>] [3 <./immagini/../immagini
 /rockstart-ballroom.jpg>]
-<immagini/../immagini/coffeestrap-flow.png, id=249, 424.2249pt x 362.3136pt>
+<immagini/../immagini/coffeestrap-flow.png, id=253, 424.2249pt x 362.3136pt>
 File: immagini/../immagini/coffeestrap-flow.png Graphic file (type png)
 
 <use immagini/../immagini/coffeestrap-flow.png>
@@ -1420,7 +1420,7 @@ Package pdftex.def Info: immagini/../immagini/coffeestrap-flow.png used on inpu
 t line 94.
 (pdftex.def)             Requested size: 277.41437pt x 236.92738pt.
  [4 <./immagini/../immagini/coffeestrap-flow.png>] [5]
-<immagini/../immagini/story-workflow.png, id=269, 398.4486pt x 289.08pt>
+<immagini/../immagini/story-workflow.png, id=273, 398.4486pt x 289.08pt>
 File: immagini/../immagini/story-workflow.png Graphic file (type png)
 
 <use immagini/../immagini/story-workflow.png>
@@ -1428,7 +1428,7 @@ Package pdftex.def Info: immagini/../immagini/story-workflow.png used on input
 line 182.
 (pdftex.def)             Requested size: 372.0pt x 269.89584pt.
  [6] [7 <./immagini/../immagini/story-workflow.png>]
-<immagini/../immagini/stack-composition.png, id=315, 451.6875pt x 295.8252pt>
+<immagini/../immagini/stack-composition.png, id=319, 451.6875pt x 295.8252pt>
 File: immagini/../immagini/stack-composition.png Graphic file (type png)
 
 <use immagini/../immagini/stack-composition.png>
@@ -1436,7 +1436,7 @@ Package pdftex.def Info: immagini/../immagini/stack-composition.png used on inp
 ut line 212.
 (pdftex.def)             Requested size: 372.0pt x 243.64803pt.
  [8] [9 <./immagini/../immagini/stack-composition.png>]
-<immagini/../immagini/user-distribution.png, id=351, 1236.62pt x 624.3325pt>
+<immagini/../immagini/user-distribution.png, id=355, 1236.62pt x 624.3325pt>
 File: immagini/../immagini/user-distribution.png Graphic file (type png)
 
 <use immagini/../immagini/user-distribution.png>
@@ -1449,7 +1449,7 @@ Capitolo 2.
 [11
 
 ]
-<immagini/../immagini/mobile-and-web-market.png, id=360, 2144.01pt x 1429.34pt>
+<immagini/../immagini/mobile-and-web-market.png, id=364, 2144.01pt x 1429.34pt>
 File: immagini/../immagini/mobile-and-web-market.png Graphic file (type png)
 <use immagini/../immagini/mobile-and-web-market.png>
 Package pdftex.def Info: immagini/../immagini/mobile-and-web-market.png used on
@@ -1463,7 +1463,7 @@ ve/$[][]|
  []
 
 [12 <./immagini/../immagini/mobile-and-web-market.png>] [13] [14]
-<immagini/../immagini/vincoli-tec.png, id=405, 523.9575pt x 384.4764pt>
+<immagini/../immagini/vincoli-tec.png, id=409, 523.9575pt x 384.4764pt>
 File: immagini/../immagini/vincoli-tec.png Graphic file (type png)
 
 <use immagini/../immagini/vincoli-tec.png>
@@ -1471,7 +1471,7 @@ Package pdftex.def Info: immagini/../immagini/vincoli-tec.png used on input lin
 e 138.
 (pdftex.def)             Requested size: 372.0pt x 272.98015pt.
  [15]
-<immagini/../immagini/scrum-meeting.jpg, id=415, 481.8pt x 361.35pt>
+<immagini/../immagini/scrum-meeting.jpg, id=419, 481.8pt x 361.35pt>
 File: immagini/../immagini/scrum-meeting.jpg Graphic file (type jpg)
 
 <use immagini/../immagini/scrum-meeting.jpg>
@@ -1479,7 +1479,7 @@ Package pdftex.def Info: immagini/../immagini/scrum-meeting.jpg used on input l
 ine 153.
 (pdftex.def)             Requested size: 199.16928pt x 149.373pt.
 
-<immagini/../immagini/stand-up-meeting.jpg, id=416, 552.0625pt x 367.3725pt>
+<immagini/../immagini/stand-up-meeting.jpg, id=420, 552.0625pt x 367.3725pt>
 File: immagini/../immagini/stand-up-meeting.jpg Graphic file (type jpg)
 
 <use immagini/../immagini/stand-up-meeting.jpg>
@@ -1501,80 +1501,94 @@ ting.jpg>]
 
 ]
 Capitolo 3.
-<immagini/../immagini/gantt.png, id=430, 626.34pt x 741.77126pt>
+<immagini/../immagini/gantt.png, id=435, 626.34pt x 741.77126pt>
 File: immagini/../immagini/gantt.png Graphic file (type png)
 
 <use immagini/../immagini/gantt.png>
 Package pdftex.def Info: immagini/../immagini/gantt.png used on input line 28.
 (pdftex.def)             Requested size: 372.0pt x 440.57275pt.
 
-<immagini/../immagini/pivotal-tracker.png, id=433, 1591.9475pt x 948.54375pt>
+<immagini/../immagini/pivotal-tracker.png, id=438, 1591.9475pt x 948.54375pt>
 File: immagini/../immagini/pivotal-tracker.png Graphic file (type png)
 
 <use immagini/../immagini/pivotal-tracker.png>
 Package pdftex.def Info: immagini/../immagini/pivotal-tracker.png used on input
  line 40.
 (pdftex.def)             Requested size: 372.0pt x 221.6486pt.
-
-<immagini/../immagini/hipchat.png, id=436, 1280.785pt x 777.90625pt>
+ [19] [20 <./immagini/../immagini/gantt.png>]
+<immagini/../immagini/hipchat.png, id=453, 1280.785pt x 777.90625pt>
 File: immagini/../immagini/hipchat.png Graphic file (type png)
 
 <use immagini/../immagini/hipchat.png>
 Package pdftex.def Info: immagini/../immagini/hipchat.png used on input line 48
 .
 (pdftex.def)             Requested size: 372.0pt x 225.93126pt.
- [19] [20 <./immagini/../immagini/gantt.png>] [21 <./immagini/../immagini/pivot
-al-tracker.png>]
-<immagini/../immagini/lucidchart-mockup.png, id=465, 1286.8075pt x 704.6325pt>
+ [21 <./immagini/../immagini/pivotal-tracker.png>]
+<immagini/../immagini/lucidchart-mockup.png, id=475, 1286.8075pt x 704.6325pt>
 File: immagini/../immagini/lucidchart-mockup.png Graphic file (type png)
 
 <use immagini/../immagini/lucidchart-mockup.png>
 Package pdftex.def Info: immagini/../immagini/lucidchart-mockup.png used on inp
-ut line 71.
+ut line 73.
 (pdftex.def)             Requested size: 199.16928pt x 109.05563pt.
 
-<immagini/../immagini/lucidchart-uml.png, id=466, 1282.7925pt x 709.65125pt>
+<immagini/../immagini/lucidchart-uml.png, id=476, 1282.7925pt x 709.65125pt>
 File: immagini/../immagini/lucidchart-uml.png Graphic file (type png)
 
 <use immagini/../immagini/lucidchart-uml.png>
 Package pdftex.def Info: immagini/../immagini/lucidchart-uml.png used on input 
-line 77.
+line 79.
 (pdftex.def)             Requested size: 199.16928pt x 110.17888pt.
 
-Overfull \hbox (51.67331pt too wide) in paragraph at lines 69--80
+Overfull \hbox (51.67331pt too wide) in paragraph at lines 71--82
 [][]       [] 
  []
 
-[22 <./immagini/../immagini/hipchat.png> <./immagini/../immagini/lucidchart-moc
-kup.png> <./immagini/../immagini/lucidchart-uml.png>] [23])
-(./capitoli/capitolo-4.tex [24]
-Capitolo 4.
-) (./capitoli/appendice-A.tex [25
+[22 <./immagini/../immagini/hipchat.png>] [23 <./immagini/../immagini/lucidchar
+t-mockup.png> <./immagini/../immagini/lucidchart-uml.png>]
+<immagini/../immagini/gradle.png, id=511, 592.2125pt x 328.22626pt>
+File: immagini/../immagini/gradle.png Graphic file (type png)
 
-] [26
+<use immagini/../immagini/gradle.png>
+Package pdftex.def Info: immagini/../immagini/gradle.png used on input line 100
+.
+(pdftex.def)             Requested size: 186.0pt x 103.0863pt.
+
+<immagini/../immagini/bugsnag.png, id=513, 1282.7925pt x 705.63625pt>
+File: immagini/../immagini/bugsnag.png Graphic file (type png)
+
+<use immagini/../immagini/bugsnag.png>
+Package pdftex.def Info: immagini/../immagini/bugsnag.png used on input line 11
+0.
+(pdftex.def)             Requested size: 372.0pt x 204.62927pt.
+ [24 <./immagini/../immagini/gradle.png> <./immagini/../immagini/bugsnag.png>])
+ (./capitoli/capitolo-4.tex [25] [26]
+Capitolo 4.
+) (./capitoli/appendice-A.tex [27
+
+] [28
 
 ]
 Appendice A.
-[27]
-<immagini/../immagini/git-flow-model.png, id=507, 1154.3125pt x 1529.715pt>
+[29]
+<immagini/../immagini/git-flow-model.png, id=549, 1154.3125pt x 1529.715pt>
 File: immagini/../immagini/git-flow-model.png Graphic file (type png)
 
 <use immagini/../immagini/git-flow-model.png>
 Package pdftex.def Info: immagini/../immagini/git-flow-model.png used on input 
 line 35.
 (pdftex.def)             Requested size: 186.0pt x 246.48668pt.
-) [28 <./immagini/../immagini/git-flow-model.png>] (./tesi.gls [29
+) [30 <./immagini/../immagini/git-flow-model.png>] (./tesi.gls [31
 
 
 
-] [30]) (./tesi.acr)
-(./inizio-fine/bibliografia.tex [31] [32
-
-]
+] [32] [33]) (./tesi.acr)
+(./inizio-fine/bibliografia.tex [34]
 
 LaTeX Warning: Empty bibliography on input line 13.
 
-) [33
+) [35
+
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
@@ -1587,11 +1601,11 @@ Package logreq Info: Writing requests to 'tesi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23287 strings out of 493304
- 368124 string characters out of 6139871
- 914920 words of memory out of 5000000
- 25853 multiletter control sequences out of 15000+600000
- 34153 words of font info for 146 fonts, out of 8000000 for 9000
+ 23555 strings out of 493304
+ 372579 string characters out of 6139871
+ 921055 words of memory out of 5000000
+ 26103 multiletter control sequences out of 15000+600000
+ 34272 words of font info for 147 fonts, out of 8000000 for 9000
  959 hyphenation exceptions out of 8191
  61i,10n,122p,1689b,1433s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
@@ -1615,10 +1629,10 @@ mf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/publi
 c/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.
 pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb></usr/share/texm
 f/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on tesi.pdf (43 pages, 3114604 bytes).
+Output written on tesi.pdf (45 pages, 3255135 bytes).
 PDF statistics:
- 921 PDF objects out of 1000 (max. 8388607)
- 790 compressed objects within 8 object streams
- 199 named destinations out of 1000 (max. 500000)
- 37851 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 984 PDF objects out of 1000 (max. 8388607)
+ 842 compressed objects within 9 object streams
+ 213 named destinations out of 1000 (max. 500000)
+ 37861 words of extra memory for PDF output out of 42996 (max. 10000000)
 

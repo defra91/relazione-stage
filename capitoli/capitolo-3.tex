@@ -41,13 +41,15 @@ Per la gestione delle \textit{story} è stato scelto lo strumento \textbf{pivota
 \caption{Schermata di pivotaltracker}  
 \end{figure}
 
-Per la comunicazione interna al \textit{team} è stato scelto l'utilizzo di \textbf{hipchat}\footnote{\url{https://www.hipchat.com/}}, il quale fornisce un sistema di messaggistica istantanea e di video conferenze, in modo analogo a quanto offerto da servizi come \textit{skype} o \textit{google hangout}. Hipchat permette inoltre di creare delle ``stanze'' con più utenti, in modo da poter discutere di un preciso argomento o tema. Questo strumento è di fatto fondamentale per poter lavorare da remoto.
+Per la comunicazione interna al \textit{team} è stato scelto l'utilizzo di \textbf{hipchat}\footnote{\url{https://www.hipchat.com/}}, il quale fornisce un sistema di messaggistica istantanea e di video conferenze, in modo analogo a quanto offerto da servizi come \textit{skype} o \textit{google hangout}. Hipchat permette inoltre di creare delle ``stanze'' con più utenti, in modo da poter discutere di un preciso argomento o tema. È altresì possibile marcare i messaggi con degli \gls{hashtag}, in modo da poter gestire al meglio le tematiche. Questo strumento è di fatto fondamentale per poter lavorare da remoto.
 
 \begin{figure}[htpd]
 \centering
 \includegraphics[width=\textwidth]{../immagini/hipchat}
-\caption{}  
+\caption{Schermata di HipChat}  
 \end{figure}
+
+Per quanto riguarda la produzione di documenti viene utilizzato lo strumento \textbf{google documents}\footnote{\url{http://www.google.com/docs/about/}}. Questa scelta è dovuta alla estrema facilità di utilizzo e familiarità di tale strumento oltre alla possibilità di condividere documenti in tempo reale ed avere essi disponibili in ogni momento e con ogni piattaforma. Inoltre con google documents è possibile inserire in ogni documento dei \textit{suggerimenti}, che in seguito l'autore o gli autori prenderanno in considerazione.
 
 \subsection*{Formazione e analisi}
 
@@ -61,9 +63,9 @@ Per quanto riguarda l'analisi dei requisiti non vi è stata una norma o attivit�
 
 \subsection*{Progettazione}
 
-In questo periodo ho iniziato ad ideare l'architettura software dell'applicazione e concorrentemente a sviluppare un \textit{prototipo} secondo i requisiti emersi. Per questo ho installato e configurato l'SDK ufficiale di Android, utilizzando in primo luogo l'IDE Eclipse\footnote{\url{https://eclipse.org/home/index.php}}, il quale mette a disposizione un ottimo plugin per l'integrazione con esso. 
+In questo periodo ho iniziato ad ideare l'architettura software dell'applicazione e concorrentemente a sviluppare un \textit{prototipo} secondo i requisiti emersi. Per questo ho installato e configurato l'SDK ufficiale di Android, utilizzando in primo luogo l'\gls{IDE} Eclipse\footnote{\url{https://eclipse.org/home/index.php}}, il quale mette a disposizione un ottimo plugin per la sua integrazione ed è tuttora supportato ed ampiamente usufruito dalla comunità degli sviluppatori. La sua scelta è dovuta inoltre alla familiarità da parte mia con questo strumento, il quale era stato da me utilizzato per progetti precedenti.  
 
-Per la progettazione del layout dell'applicazione ho utilizzato \textbf{lucidchart}\footnote{\url{https://www.lucidchart.com/?utm_expid=39895073-63.LohXHUI7T6yhe2x7Iyjc7Q.0}} come strumento per la realizzazione di \gls{mockup}. Quest'ultimo stumento è stato inoltre utilizzato per la realizzazione dei diagrammi di attività e classi in \gls{UML}. Lucidchart si è rivelato uno strumento molto utile e di facile utilizzo, che permette una gestione sia \textit{online} che \textit{offline} dei diagrammi e permette ad altri utenti di condividere un documento e modificarlo in tempo reale. Quest'ultima caratteristica si è rivelata particolarmente utile nel momento in cui vi era necessità di discutere sulla progettazione.
+Per la progettazione del layout dell'applicazione ho utilizzato \textbf{lucidchart}\footnote{\url{https://www.lucidchart.com/?utm_expid=39895073-63.LohXHUI7T6yhe2x7Iyjc7Q.0}} come strumento per la realizzazione di \gls{mockup}. Quest'ultimo stumento è stato inoltre utilizzato per la realizzazione dei diagrammi di attività e classi in \gls{UML}. Lucidchart si è rivelato uno strumento molto utile e di facile utilizzo, che permette una gestione sia \textit{online} che \textit{offline} dei diagrammi e permette ad altri utenti di condividere un documento e modificarlo in tempo reale. Quest'ultima caratteristica si è rivelata particolarmente utile nel momento in cui vi era necessità di discutere sulla progettazione. 
 
 \begin{figure}
 \begin{minipage}[b]{7cm}
@@ -79,13 +81,35 @@ Per la progettazione del layout dell'applicazione ho utilizzato \textbf{lucidcha
 \end{minipage}
 \end{figure}
 
-In questo periodo e nei successivi sono stati inoltre prodotti dei documenti di specifica, realizzati tramite \textbf{google documents}\footnote{\url{http://www.google.com/docs/about/}}. Questa scelta, così come quella di lucidchart, è dovuta alla estrema facilità di utilizzo di tale strumento e alla possibilità di condividere documenti in tempo reale. Inoltre con google documents è possibile inserire in ogni documento dei suggerimenti, che in seguito l'autore prenderà in considerazione.
 
 \subsection*{Codifica}
 
-In seguito al periodo di progettazione ho deciso, per questioni di efficienza, di abbandonare Eclipse per passare dunque ad \textbf{Android Studio}\footnote{}
+In seguito al periodo di progettazione ho deciso, per questioni di efficienza, di abbandonare Eclipse per passare dunque ad \textbf{Android Studio}\footnote{\url{http://developer.android.com/sdk/index.html}}, il quale è sviluppato dall'azienda stessa e può quindi supportare meglio gli ultimi aggiornamenti della piattaforma. Le principali differenze tra i due IDE sono le seguenti:
+
+\begin{itemize}
+
+\item Android Studio utilizza un sistema di compilazione basato su \textbf{gradle}\footnote{\url{https://www.gradle.org/}}, a differenza di Eclipse che utilizza \textbf{ant}\footnote{\url{http://ant.apache.org/}}. Gradle incorpora al suo interno i concetti e la logica di \textit{ant} ed \textbf{apache maven}\footnote{\url{http://maven.apache.org/}}, introducendo inoltre un DSL basato su \textbf{Groovy}\footnote{\url{http://groovy.codehaus.org/}}, che permette la facile codifica di script per l'automatizzazione di processi quali compilazione, verifica o caricamento di file \texttt{.apk} all'interno dello store. Ant, al contrario, si basa su una sintassi in formato XML ed è molto più ``anziano'' rispetto a gradle ma permette anch'esso la codifica di script per l'automatizzazione di processi. Avere a disposizione una serie di processi automatizzati ha come conseguenza un notevole risparmio di tempo, che si traduce in efficienza, oltre che a considerevoli vantaggi in termini di estensibilità e manutenzione del software. La scelta di gradle è dovuta in primo luogo al supporto da parte di Android di questo strumento, il quale viene indicato come \textit{best practice} per il presente e il futuro. Inoltre gradle è risultato per me di più facile utilizzo per la gestione delle dipendenze e per la compilazione, nonchè per la produzione ed esportazione dei file \texttt{.apk};
+\item Android Studio offre uno strumento di \gls{refactoring} migliore rispetto ad Eclipse, inoltre il sistema di auto-completamento del codice a mio parere è altresì migliore;
+\item La gestione dell'interfaccia grafica è a mio parere migliore in Android Studio rispetto ad Eclipse, le opzioni di personalizzazione sono più vaste e rispondono in modo migliore alle mie esigenze;
+\item Se da un lato Eclipse risulta più ``leggero'' in quanto a consumo di risorse, d'altro canto presenta diverse problematiche nell'esecuzione di alcune operazioni, come l'esportazione di file \texttt{.apk}. È capitato più volte infatti che l'IDE terminasse inaspettatmente il suo flusso (\gls{crash}) oppure si bloccasse per un tempo indeterminato (\gls{freeze}). Android Studio da questo punto di vista mi ha garantito maggiore affidabilità. 
+
+\end{itemize}
+
+\begin{figure}[htpd]
+\centering
+\includegraphics[width=\textwidth/2]{../immagini/gradle}
+\caption{Gradle combina tutte le migliori features dagli altri strumenti di sviluppo}  
+\end{figure}
 
 \subsection*{Testing}
+
+Il principale strumento utilizzato in fase di verifica è sato \textbf{bugsnag}\footnote{https://bugsnag.com/}, il quale tramite una libreria permette la sua integrazione all'interno di un progetto Android. Il suo utilizzo consiste nella segnalazione e tracciamento di arresti anomali dell'applicazione. Ogniqalvolta all'interno di un'istanza dell'applicazione avviene un arresto anomalo bugsnag automaticamente invia una segnalazione al proprio server, riportando il tipo di errore, dove esso si è verificato e su quale dispositivo. Nella sua pagina web è possibile visualizzare una tabella con il \textit{log} di tutti gli errori, raggruppati per tipologia, e il numero di occorrenze. Questo strumento si è rivelato di estrema importanza per il rilevamento e tracciamento di \textit{bug} all'interno dell'applicazione.
+
+\begin{figure}[htpd]
+\centering
+\includegraphics[width=\textwidth]{../immagini/bugsnag}
+\caption{Una schermata di bugsnag}  
+\end{figure}
 
 \section{Periodo di formazione}
 
