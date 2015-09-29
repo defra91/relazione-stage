@@ -19,7 +19,7 @@ correct-chapter-3:
 	aspell -c capitoli/capitolo-3.tex -d it
 
 correct-chapter-4:
-	aspell -c capitoli/capitolo-1.tex -d it
+	aspell -c capitoli/capitolo-4.tex -d it
 
 correct-appendix-A:
 	aspell -c capitoli/capitolo-A.tex -d it
